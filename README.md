@@ -9,7 +9,6 @@ Hitman: Blood Money Ukr. v.0.1-alpha
 
 Відомі помилки:
 - літери 'ї' та 'є' не відображаються
-- неперекладено перший вступний рівень (інструмент для декомпіляції викликає помилку коли аналізує цей рівень)
 - деякі стрічки не відображаються, або замість них відображаються ключові слова
 - переклад неідеальний так як я використав Google Translate для швидшого створення українізатора
 
@@ -17,12 +16,14 @@ Hitman: Blood Money Ukr. v.0.1-alpha
 Якщо десь знайдете коректний декомпілятор з loc в json і навпаки - зможемо зробити повноцінний переклад.
 
 На підтримку:
-
+![alt text](https://steamuserimages-a.akamaihd.net/ugc/15301647011007757/C65E0DC157F43C3EF234FE65E025503482A5349B/)
 
 
 Все буде Україна!
 
-![alt text](https://steamuserimages-a.akamaihd.net/ugc/2531667816662330801/54D07D2EBB39C149745BDE26690067D88FA4D341/)
-![alt text](https://steamuserimages-a.akamaihd.net/ugc/2531667816662328719/3202C89EC573D5C861081A609741036066B7762E/)
-![alt text](https://steamuserimages-a.akamaihd.net/ugc/2531667816662329559/075256ED218936FBACCD4ED033BB9BD85785C724/)
-![alt text](https://steamuserimages-a.akamaihd.net/ugc/2531667816662328339/D8B034900E2863367AFC70C8A20B9AF031B6C966/)
+
+![alt text](https://steamuserimages-a.akamaihd.net/ugc/15301647011471567/4FB44146E7D5D41AEAE2EA802BC9B37E2B951CFC/)
+![alt text](https://steamuserimages-a.akamaihd.net/ugc/15301647011471841/7B01BEB3240E2FAE43BC66B3A7F0AA77B0FA45A2/)
+![alt text](https://steamuserimages-a.akamaihd.net/ugc/15301647011472060/AA99B984A0B2BE57A028B85046CF20C5DA96FB3A/)
+![alt text](https://steamuserimages-a.akamaihd.net/ugc/15301647011472988/5B23BE5D3F96419EB47FB64DBC4B611668D981E1/)
+![alt text](https://steamuserimages-a.akamaihd.net/ugc/15301647011472397/CE611DE20946B0B2F14E86E786CF58A4DBE08EAB/)
