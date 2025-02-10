@@ -13,7 +13,7 @@ foreach (string locFile in locFiles)
         StartInfo = new ProcessStartInfo
         {
             FileName = "locc",
-            Arguments = $"--from=\"{locFile}\" --to=\"{outputJsonFile}\" --mode=decompile",
+            Arguments = $"--from=\"{locFile}\" --to=\"{outputJsonFile}\" --mode=decompile --pretty-json=true",
             RedirectStandardOutput = true,
             RedirectStandardError = true,
             UseShellExecute = false,
