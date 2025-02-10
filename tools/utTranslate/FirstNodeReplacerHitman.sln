@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstNodeReplacerHitman", "utTranslate\FirstNodeReplacerHitman.csproj", "{2144D81A-2286-482C-8AB5-3AA3A8158C53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2144D81A-2286-482C-8AB5-3AA3A8158C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2144D81A-2286-482C-8AB5-3AA3A8158C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2144D81A-2286-482C-8AB5-3AA3A8158C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2144D81A-2286-482C-8AB5-3AA3A8158C53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF740F87-390E-4035-A328-2C96B93C5E20}
+	EndGlobalSection
+EndGlobal
