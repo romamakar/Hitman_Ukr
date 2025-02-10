@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstNodeReplacerHitman", "utTranslate\FirstNodeReplacerHitman.csproj", "{2144D81A-2286-482C-8AB5-3AA3A8158C53}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstNodeReplacerHitman", "nodeReplacer\FirstNodeReplacerHitman.csproj", "{2144D81A-2286-482C-8AB5-3AA3A8158C53}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
