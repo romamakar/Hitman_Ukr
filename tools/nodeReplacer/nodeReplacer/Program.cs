@@ -17,7 +17,7 @@ namespace FirstNodeReplacerHitman
             Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
             string sourceFolder = @"C:\Users\roman\OneDrive\Desktop\Hitman_Ukr\ua"; // Ваша папка з текстовими файлами
             string destinationFolder = @"C:\Users\roman\OneDrive\Desktop\Hitman_Ukr\ua2"; // Папка для збереження перекладених файлів
-            string ukrExample = @"C:\Users\roman\OneDrive\Desktop\Hitman_Ukr\HitmanBloodMoneyUkr.json";
+            string ukrExample = @"C:\Users\roman\OneDrive\Desktop\Hitman_Ukr\main.json";
             if (!Directory.Exists(destinationFolder))
             {
                 Directory.CreateDirectory(destinationFolder);
@@ -37,7 +37,7 @@ namespace FirstNodeReplacerHitman
 
                 var hloc = JsonConvert.DeserializeObject<HLocClass>(jsonText);
 
-                hloc.children[0] = ukr.children[0];
+                hloc.children[0] = ukr;
 
 
                 //GoThrouClass(hloc);
