@@ -19,6 +19,8 @@ namespace ZipBuilder
             CreateMainLocks();
             CreatePostMissionLocs();
             UpdateZip();
+
+            Directory.Delete(localPath + "\\loc", true);
         }
 
         static void UpdateZip()
