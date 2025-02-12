@@ -119,7 +119,7 @@
         {
           "name": "ExitKeyhole",
           "org_tbyte": 9,
-          "value": "Вiдiйти вiд щілини",
+          "value": "Вiдiйти вiд щiлини",
           "numChildren": 0,
           "type": "data"
         },
@@ -182,7 +182,7 @@
         {
           "name": "LookKeyhole",
           "org_tbyte": 9,
-          "value": "Заглянути у щілину",
+          "value": "Заглянути у щiлину",
           "numChildren": 0,
           "type": "data"
         },
@@ -357,7 +357,7 @@
         {
           "name": "UnlockDoor",
           "org_tbyte": 9,
-          "value": "Відчинити двері",
+          "value": "Вiдчинити дверi",
           "numChildren": 0,
           "type": "data"
         },
@@ -980,7 +980,7 @@
         {
           "name": "ValidKeycard",
           "org_tbyte": 9,
-          "value": "Валідна ключ-картка",
+          "value": "Валiдна ключ-картка",
           "numChildren": 0,
           "type": "data"
         },
@@ -1396,7 +1396,7 @@
             {
               "name": "BribeCivBox",
               "org_tbyte": 9,
-              "value": "ТІ, ЩО БАЧИЛИ АБО ЧУЛИ ВАС, ЗАБУДУТЬ ВАС. ПIДКУП СВIДКIВ ТРОХИ ЗНИЖУЭ ВАШУ Впiзнаванiсть (15 ПУНКТIВ).",
+              "value": "ТI, ЩО БАЧИЛИ АБО ЧУЛИ ВАС, ЗАБУДУТЬ ВАС. ПIДКУП СВIДКIВ ТРОХИ ЗНИЖУЭ ВАШУ Впiзнаванiсть (15 ПУНКТIВ).",
               "numChildren": 0,
               "type": "data"
             },
@@ -1410,7 +1410,7 @@
             {
               "name": "BribePoliceBox",
               "org_tbyte": 9,
-              "value": "НАЧАЛЬНИК МIСЦЕВОЪ ПОЛIЦIЪ ПРОПІКЛУЄТЬСЯ ПРО ТЕ, ЩОБ ВСI ДОКАЗИ ВИПАДКОВО ЗНИКЛИ. РОЗСЛIДУВАННЯ ЗАЙДЕ В ТУПИК. ПIДКУП ПОЛIЦIЪ IСТОТНО ЗНИЖУЭ ВАШУ Впiзнаванiсть (40 ПУНКТIВ).",
+              "value": "НАЧАЛЬНИК МIСЦЕВОЪ ПОЛIЦIЪ ПРОПIКЛУЭТЬСЯ ПРО ТЕ, ЩОБ ВСI ДОКАЗИ ВИПАДКОВО ЗНИКЛИ. РОЗСЛIДУВАННЯ ЗАЙДЕ В ТУПИК. ПIДКУП ПОЛIЦIЪ IСТОТНО ЗНИЖУЭ ВАШУ Впiзнаванiсть (40 ПУНКТIВ).",
               "numChildren": 0,
               "type": "data"
             },
@@ -1515,7 +1515,7 @@
             {
               "name": "Cancel2",
               "org_tbyte": 9,
-              "value": "{ZW_CANCEL} ВІДМІНА",
+              "value": "{ZW_CANCEL} ВIДМIНА",
               "numChildren": 0,
               "type": "data"
             },
@@ -1767,7 +1767,7 @@
             {
               "name": "btnRecover",
               "org_tbyte": 9,
-              "value": "ВІДНОВИТИ {ZW_SELECT}",
+              "value": "ВIДНОВИТИ {ZW_SELECT}",
               "numChildren": 0,
               "type": "data"
             }
@@ -1792,7 +1792,7 @@
         {
           "name": "Capacity",
           "org_tbyte": 9,
-          "value": "Ємність:",
+          "value": "Эмнiсть:",
           "numChildren": 0,
           "type": "data"
         },
@@ -1855,7 +1855,7 @@
         {
           "name": "Costum",
           "org_tbyte": 9,
-          "value": "МОДИФIКАЦІЯ",
+          "value": "МОДИФIКАЦIЯ",
           "numChildren": 0,
           "type": "data"
         },
@@ -2943,7 +2943,7 @@
             {
               "name": "ButtonConfiguration",
               "org_tbyte": 9,
-              "value": "КЛАВІШI УПРАВЛIННЯ",
+              "value": "КЛАВIШI УПРАВЛIННЯ",
               "numChildren": 0,
               "type": "data"
             },
@@ -3699,7 +3699,7 @@
             {
               "name": "M04",
               "org_tbyte": 9,
-              "value": "ПЛОСКА ЛІНІЯ",
+              "value": "ПЛОСКА ЛIНIЯ",
               "numChildren": 0,
               "type": "data"
             },
@@ -3713,7 +3713,7 @@
             {
               "name": "M06",
               "org_tbyte": 9,
-              "value": "ВБИВСТВО ВОРОНІВ",
+              "value": "ВБИВСТВО ВОРОНIВ",
               "numChildren": 0,
               "type": "data"
             },
@@ -3773,7 +3773,7 @@
         {
           "name": "LevelPerformanceSubHeader",
           "org_tbyte": 9,
-          "value": "РЕЙТИНГ ВПІЗНАВАНОСТІ",
+          "value": "РЕЙТИНГ ВПIЗНАВАНОСТI",
           "numChildren": 0,
           "type": "data"
         },
@@ -4406,7 +4406,7 @@
             {
               "name": "txtShotsHit",
               "org_tbyte": 9,
-              "value": "ВИСТРIЛIВ ПОТРАПИЛО В ЦІЛЬ",
+              "value": "ВИСТРIЛIВ ПОТРАПИЛО В ЦIЛЬ",
               "numChildren": 0,
               "type": "data"
             },

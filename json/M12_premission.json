@@ -121,7 +121,7 @@
             {
               "name": "ExitKeyhole",
               "org_tbyte": 9,
-              "value": "Вiдiйти вiд свердловини",
+              "value": "Вiдiйти вiд щiлини",
               "numChildren": 0,
               "type": "data"
             },
@@ -184,7 +184,7 @@
             {
               "name": "LookKeyhole",
               "org_tbyte": 9,
-              "value": "Заглянути у свердловину",
+              "value": "Заглянути у щiлину",
               "numChildren": 0,
               "type": "data"
             },
@@ -233,7 +233,7 @@
             {
               "name": "PickupClothes",
               "org_tbyte": 9,
-              "value": "Одяг",
+              "value": "Одягнутись",
               "numChildren": 0,
               "type": "data"
             },
@@ -359,7 +359,7 @@
             {
               "name": "UnlockDoor",
               "org_tbyte": 9,
-              "value": "Потрiбен ключ",
+              "value": "Вiдчинити дверi",
               "numChildren": 0,
               "type": "data"
             },
@@ -982,7 +982,7 @@
             {
               "name": "ValidKeycard",
               "org_tbyte": 9,
-              "value": "Вiдповiдна ключ-картка",
+              "value": "Валiдна ключ-картка",
               "numChildren": 0,
               "type": "data"
             },
@@ -1087,7 +1087,7 @@
             {
               "name": "ValidKeycard",
               "org_tbyte": 9,
-              "value": "Вiдповiдна ключ-карта",
+              "value": "Валiдна ключ-карта",
               "numChildren": 0,
               "type": "data"
             },
@@ -1398,7 +1398,7 @@
                 {
                   "name": "BribeCivBox",
                   "org_tbyte": 9,
-                  "value": "Тi, що БАЧИЛИ АБО ЧУТИ ВАС, МIСЦЕВI ЖИТТI ДРУГОМУ СТАНУТЬ ЗАБУТЛИВИМИ. ПОТЕНЦIЙНI СВIДКИ ДВАЖДИ ПОДУМАЮТЬ ПЕРЕД ТИМ, ЯК ЗАМОВИТИ. ПIДКУП СВIДКIВ ТРОХИ ЗНИЖУЭ ВАШУ Впiзнаванiсть (15 ПУНКТIВ).",
+                  "value": "ТI, ЩО БАЧИЛИ АБО ЧУЛИ ВАС, ЗАБУДУТЬ ВАС. ПIДКУП СВIДКIВ ТРОХИ ЗНИЖУЭ ВАШУ Впiзнаванiсть (15 ПУНКТIВ).",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -1412,7 +1412,7 @@
                 {
                   "name": "BribePoliceBox",
                   "org_tbyte": 9,
-                  "value": "НАЧАЛЬНИК МIСЦЕВОЪ ПОЛIЦIЪ ПОКЛЮЧИТЬСЯ ПРО ТЕ, ЩОБ ВСI ДОЛIКИ ВИПАДКОВО ЗНИКЛИ. РОЗСЛIДУВАННЯ ЗАЙДЕ В ТУПIК. ПIДКУП ПОЛIЦIЪ IСТОТНО ЗНИЖУЭ ВАШУ Впiзнаванiсть (40 ПУНКТIВ).",
+                  "value": "НАЧАЛЬНИК МIСЦЕВОЪ ПОЛIЦIЪ ПРОПIКЛУЭТЬСЯ ПРО ТЕ, ЩОБ ВСI ДОКАЗИ ВИПАДКОВО ЗНИКЛИ. РОЗСЛIДУВАННЯ ЗАЙДЕ В ТУПИК. ПIДКУП ПОЛIЦIЪ IСТОТНО ЗНИЖУЭ ВАШУ Впiзнаванiсть (40 ПУНКТIВ).",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -1433,7 +1433,7 @@
                 {
                   "name": "NewIdentityBox",
                   "org_tbyte": 9,
-                  "value": "ВСI ЗАПИСИ ПРО ВАС В АРХIВАХ УРЯДНИХ УСТАНОВ I ОРГАНIВ ПРАВОПОРЯДКУ ЗНИЩУЮТЬСЯ. З ТОЧКИ ЗОРУ ДЕРЖАВИ ВИ ПЕРЕСТАЭТЕ IСНУВАТИ. КУПИВ НОВI ДОКУМЕНТИ, ВИ ПОВНIСТТЮ ПОБУДИТЕСЯ ВIД ДIЗНАВАЛЬНОСТI (100 ПУНКТIВ).",
+                  "value": "ВСI ЗАПИСИ ПРО ВАС В АРХIВАХ УРЯДНИХ УСТАНОВ I ОРГАНIВ ПРАВОПОРЯДКУ ЗНИЩУЮТЬСЯ. З ТОЧКИ ЗОРУ ДЕРЖАВИ ВИ ПЕРЕСТАЭТЕ IСНУВАТИ. КУПИВШИ НОВI ДОКУМЕНТИ, ВИ ПОВНIСТТЮ ПОЗБУДИТЕСЯ ВIД ДIЗНАВАЛЬНОСТI (100 ПУНКТIВ).",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -1517,7 +1517,7 @@
                 {
                   "name": "Cancel2",
                   "org_tbyte": 9,
-                  "value": "{ZW_CANCEL} СКАСУВАННЯ",
+                  "value": "{ZW_CANCEL} ВIДМIНА",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -1573,14 +1573,14 @@
                 {
                   "name": "FlipPage",
                   "org_tbyte": 9,
-                  "value": "{ZW_SELECT} СЛIД. СТОРIНКА",
+                  "value": "{ZW_SELECT} НАСТ. СТОРIНКА",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "FlipPage2",
                   "org_tbyte": 9,
-                  "value": "СЛIД. СТОРIНКА {ZW_SELECT}",
+                  "value": "НАСТ. СТОРIНКА {ZW_SELECT}",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -1657,7 +1657,7 @@
                 {
                   "name": "Reset",
                   "org_tbyte": 9,
-                  "value": "СКИДАННЯ {ZW_SELECT2}",
+                  "value": "СКИНУТИ {ZW_SELECT2}",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -1769,7 +1769,7 @@
                 {
                   "name": "btnRecover",
                   "org_tbyte": 9,
-                  "value": "ДIСТИ {ZW_SELECT}",
+                  "value": "ВIДНОВИТИ {ZW_SELECT}",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -1794,7 +1794,7 @@
             {
               "name": "Capacity",
               "org_tbyte": 9,
-              "value": "Боэкомплект:",
+              "value": "Эмнiсть:",
               "numChildren": 0,
               "type": "data"
             },
@@ -1857,7 +1857,7 @@
             {
               "name": "Costum",
               "org_tbyte": 9,
-              "value": "МОДИФIКОВАНЕ",
+              "value": "МОДИФIКАЦIЯ",
               "numChildren": 0,
               "type": "data"
             },
@@ -1878,7 +1878,7 @@
             {
               "name": "CustomWeapons",
               "org_tbyte": 9,
-              "value": "евакуацiя МОД. ЗБРОЪ",
+              "value": "МОД. ЗБРОЪ",
               "numChildren": 0,
               "type": "data"
             },
@@ -2945,7 +2945,7 @@
                 {
                   "name": "ButtonConfiguration",
                   "org_tbyte": 9,
-                  "value": "КЛАВИШI УПРАВЛIННЯ",
+                  "value": "КЛАВIШI УПРАВЛIННЯ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -3673,7 +3673,7 @@
                 {
                   "name": "M00",
                   "org_tbyte": 9,
-                  "value": "СМЕРТЬ ШОУМЕНУ",
+                  "value": "СМЕРТЬ ШОУМЕНА",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -3701,7 +3701,7 @@
                 {
                   "name": "M04",
                   "org_tbyte": 9,
-                  "value": "БIГУЧА ХВИЛЯ",
+                  "value": "ПЛОСКА ЛIНIЯ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -3715,7 +3715,7 @@
                 {
                   "name": "M06",
                   "org_tbyte": 9,
-                  "value": "Вбивство воронiв",
+                  "value": "ВБИВСТВО ВОРОНIВ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -3729,7 +3729,7 @@
                 {
                   "name": "M09",
                   "org_tbyte": 9,
-                  "value": "Поки смерть не розлучить нас",
+                  "value": "ПОКИ СМЕРТЬ НЕ РОЗЛУЧИТЬ НАС",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -3743,14 +3743,14 @@
                 {
                   "name": "M11",
                   "org_tbyte": 9,
-                  "value": "Танець З Дияволом",
+                  "value": "ТАНЕЦЬ З ДИВОЛОМ",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "M12",
                   "org_tbyte": 9,
-                  "value": "Поправка XXV",
+                  "value": "ПОПРАВКА XXV",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -3775,7 +3775,7 @@
             {
               "name": "LevelPerformanceSubHeader",
               "org_tbyte": 9,
-              "value": "РЕЙТИНГ Впiзнаваностi",
+              "value": "РЕЙТИНГ ВПIЗНАВАНОСТI",
               "numChildren": 0,
               "type": "data"
             },
@@ -3904,7 +3904,7 @@
                 {
                   "name": "LS_NumberShots",
                   "org_tbyte": 9,
-                  "value": "ВИСТРIЛI ЗРОБЛЕНО",
+                  "value": "ВИСТРIЛIВ ЗРОБЛЕНО",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -4349,7 +4349,7 @@
             {
               "name": "MiscEquipment",
               "org_tbyte": 9,
-              "value": "ДОП. СПОРЯДЖЕННЯ",
+              "value": "ДОД. СПОРЯДЖЕННЯ",
               "numChildren": 0,
               "type": "data"
             },
@@ -4387,7 +4387,7 @@
                 {
                   "name": "txtCoversBlown",
                   "org_tbyte": 9,
-                  "value": "ПРИКРИТТIВ РОЗВИТАНО",
+                  "value": "ПРИКРИТТIВ РОЗКРИТО",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -4401,21 +4401,21 @@
                 {
                   "name": "txtShotsFired",
                   "org_tbyte": 9,
-                  "value": "ВИСТРIЛI ЗРОБЛЕНО",
+                  "value": "ВИСТРIЛIВ ЗРОБЛЕНО",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "txtShotsHit",
                   "org_tbyte": 9,
-                  "value": "ВИСТРIЛIВ ПОТРАПИЛО МЕТА",
+                  "value": "ВИСТРIЛIВ ПОТРАПИЛО В ЦIЛЬ",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "txtTotalKills",
                   "org_tbyte": 9,
-                  "value": "ВСЬОГО Вбивств",
+                  "value": "ВСЬОГО ВБИВСТВ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -9469,7 +9469,7 @@
                 {
                   "name": "Shortname",
                   "org_tbyte": 9,
-                  "value": "ШПРИЦЬ З НАРКОЗОМ",
+                  "value": "ШПРИЦ З НАРКОЗОМ",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -9497,7 +9497,7 @@
                 {
                   "name": "Shortname",
                   "org_tbyte": 9,
-                  "value": "ШПРИЦЬ З АНТИДОТОМ",
+                  "value": "ШПРИЦ З АНТИДОТОМ",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -9525,7 +9525,7 @@
                 {
                   "name": "Shortname",
                   "org_tbyte": 9,
-                  "value": "СИРОВIТКА СМЕРТI",
+                  "value": "СИРОВАТКА СМЕРТI",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -9581,7 +9581,7 @@
                 {
                   "name": "Shortname",
                   "org_tbyte": 9,
-                  "value": "ШПРИЦЬ З ОТРУТОМ",
+                  "value": "ШПРИЦ З ОТРУТОЮ",
                   "numChildren": 0,
                   "type": "data"
                 }
