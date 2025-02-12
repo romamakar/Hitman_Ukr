@@ -158,7 +158,7 @@
 			"And" = "AND"
 			"Another" [
 				"MissionHeader" = "МIСIЮ ВИКОНАНО"
-				"MissionSubHeader" = "ДЕТАЛІ"
+				"MissionSubHeader" = "ДЕТАЛI"
 				"tcrAddSelfError" = "CANNOT ADD SELF TO FRIEND LIST"
 				"tcrAddSelfError2" = "You cannot add yourself to your
 friend list."
@@ -254,8 +254,8 @@ Acquiring a new identity will reset your notoriety rating."
 				"Continue2" = "{ZW_SELECT} ПРОДОВЖИТИ"
 				"Default" = "DEFAULT"
 				"Default2" = "DEFAULT {ZW_SELECT2}"
-				"Details" = "ДЕТАЛІ {ZW_SELECT2}"
-				"Details2" = "{ZW_SELECT2} ДЕТАЛІ"
+				"Details" = "ДЕТАЛI {ZW_SELECT2}"
+				"Details2" = "{ZW_SELECT2} ДЕТАЛI"
 				"Discard" = "DISCARD {ZW_CANCEL}"
 				"Discard2" = "{ZW_CANCEL} DISCARD"
 				"FlipPage" = "{ZW_SELECT} FLIP PAGE"
@@ -749,7 +749,7 @@ Laëtitia Wajnapel"
 				"Info14" = "At any point in the game, you can access the mission briefing by pressing the mission briefing button. Here you can replay the briefing, read information that has taken place during the mission, and read extra intelligence." 21664 21664
 				"Info14Header" = "THE MISSION BRIEFING"
 			]
-			"Details" = "ДЕТАЛІ"
+			"Details" = "ДЕТАЛI"
 			"Dialog" [
 				"AreYouSure" = "Are you sure?"
 				"AreYouSureProgressLost" = "All current unsaved progress will be lost when loading an in game save, are you sure?"
@@ -2503,7 +2503,7 @@ Would you like to download and save the update now?"
 it contains offensive language."
 				"Offline" = "OFFLINE"
 				"OnlineBack" = "НАЗАД"
-				"OnlineDetails" = "ДЕТАЛІ"
+				"OnlineDetails" = "ДЕТАЛI"
 				"OnlineError" = "ERROR"
 				"OnlineFriendRequest" = "SEND FRIEND REQUEST"
 				"OnlineFriends1021" = "Are you sure you want to remove 

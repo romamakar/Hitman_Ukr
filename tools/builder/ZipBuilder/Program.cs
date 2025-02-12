@@ -9,11 +9,12 @@ namespace ZipBuilder
     {
         static string localPath = "C:\\Users\\roman\\OneDrive\\Desktop\\Hitman_Ukr";
         static void Main()
-        {
-            if (!Directory.Exists(localPath + "\\loc"))
+        {           
+            if (Directory.Exists(localPath + "\\loc"))
             {
-                Directory.CreateDirectory(localPath + "\\loc");
+                Directory.Delete(localPath + "\\loc", true);            
             }
+            Directory.CreateDirectory(localPath + "\\loc");
 
             ReplaceMainNodeFromBloodMoneyFileToAllFiles();
             CreateMainLocks();

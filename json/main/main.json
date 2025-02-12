@@ -98,7 +98,7 @@
         {
           "name": "Escape",
           "org_tbyte": 9,
-          "value": "Бiгти",
+          "value": "Втекти",
           "numChildren": 0,
           "type": "data"
         },
@@ -3685,7 +3685,7 @@
             {
               "name": "M02",
               "org_tbyte": 9,
-              "value": "ДИВИСЬ В ОБИДВА...",
+              "value": "ТИ КРАЩЕ ОГЛЯДАЙСЯ...",
               "numChildren": 0,
               "type": "data"
             },
