@@ -6995,7 +6995,7 @@
             {
               "name": "Retrieve",
               "org_tbyte": 9,
-              "value": "евакуювати",
+              "value": "Забрати",
               "numChildren": 0,
               "type": "data"
             },
@@ -15206,7 +15206,7 @@
             {
               "name": "SelectMap_PC",
               "org_tbyte": 9,
-              "value": "Вибiр картки",
+              "value": "Вибiр карти",
               "numChildren": 0,
               "type": "data"
             },
