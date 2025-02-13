@@ -1897,7 +1897,7 @@
         {
           "name": "Delete_UpperCase",
           "org_tbyte": 9,
-          "value": "Видалити",
+          "value": "ВИДАЛИТИ",
           "numChildren": 0,
           "type": "data"
         },
@@ -2513,7 +2513,7 @@
         {
           "name": "Escape",
           "org_tbyte": 9,
-          "value": "Тiкати",
+          "value": "Втекти",
           "numChildren": 0,
           "type": "data"
         },
@@ -6733,7 +6733,7 @@
                 {
                   "name": "PostFilters",
                   "org_tbyte": 9,
-                  "value": "ПIСТ ФIЛЬТРАЦIЯ",
+                  "value": "ПОСТ ФIЛЬТРАЦIЯ",
                   "numChildren": 0,
                   "type": "data"
                 },

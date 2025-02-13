@@ -148,38 +148,46 @@ namespace ZipBuilder
         {
             string postmission = localPath + @"\json\postmission\postmission.json";
 
-            for (var i = 1; i < 13; i++)
+            string locFile = localPath + @"\loc" + "\\" + $"M01_postmission.loc";
+            Process process = new Process()
+            {
+                StartInfo = new ProcessStartInfo
+                {
+                    FileName = "hitmanbe",
+                    Arguments = $"\"{postmission}\" \"{locFile}\"",
+                    RedirectStandardOutput = true,
+                    RedirectStandardError = true,
+                    UseShellExecute = false,
+                    CreateNoWindow = true
+                }
+            };
+
+            Console.WriteLine($"Processing: {postmission} -> {locFile}");
+            process.Start();
+            process.WaitForExit();
+
+            string output = process.StandardOutput.ReadToEnd();
+            string error = process.StandardError.ReadToEnd();
+
+            if (!string.IsNullOrEmpty(output))
+                Console.WriteLine(output);
+            if (!string.IsNullOrEmpty(error))
+                Console.WriteLine($"Error: {error}");
+
+
+
+            for (var i = 2; i < 13; i++)
             {
                 if (i == 7)
                 {
                     continue;
                 }
 
-                string locFile = localPath + @"\loc" + "\\" + $"M{i.ToString("D2")}_postmission.loc";
-                Process process = new Process()
-                {
-                    StartInfo = new ProcessStartInfo
-                    {
-                        FileName = "hitmanbe",
-                        Arguments = $"\"{postmission}\" \"{locFile}\"",
-                        RedirectStandardOutput = true,
-                        RedirectStandardError = true,
-                        UseShellExecute = false,
-                        CreateNoWindow = true
-                    }
-                };
+                string newLocFile = localPath + @"\loc" + "\\" + $"M{i.ToString("D2")}_postmission.loc";               
 
-                Console.WriteLine($"Processing: {postmission} -> {locFile}");
-                process.Start();
-                process.WaitForExit();
+                Console.WriteLine($"Copying: {postmission} -> {locFile}");
 
-                string output = process.StandardOutput.ReadToEnd();
-                string error = process.StandardError.ReadToEnd();
-
-                if (!string.IsNullOrEmpty(output))
-                    Console.WriteLine(output);
-                if (!string.IsNullOrEmpty(error))
-                    Console.WriteLine($"Error: {error}");
+                File.Copy(locFile, newLocFile, false);
             }
         }
 
