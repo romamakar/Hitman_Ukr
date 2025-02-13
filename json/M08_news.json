@@ -233,7 +233,7 @@
             {
               "name": "PickupClothes",
               "org_tbyte": 9,
-              "value": "Одягнутись",
+              "value": "Одяг",
               "numChildren": 0,
               "type": "data"
             },
@@ -3862,7 +3862,7 @@
                 {
                   "name": "LS_NumberCiviliansKilled",
                   "org_tbyte": 9,
-                  "value": "ГРОМАДЯНСЬКИХ УБИТО",
+                  "value": "ЦИВIЛЬНИХ УБИТО",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -5031,7 +5031,7 @@
                 {
                   "name": "DetailInnocentsKilled",
                   "org_tbyte": 9,
-                  "value": "# ГРОМАДЯНСЬКИХ УБИТО",
+                  "value": "# ЦИВIЛЬНИХ УБИТО",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -8174,7 +8174,7 @@
                 {
                   "name": "Shortname",
                   "org_tbyte": 9,
-                  "value": "Неодруженi",
+                  "value": "Холостi",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -10197,21 +10197,21 @@
                 {
                   "name": "Type",
                   "org_tbyte": 9,
-                  "value": "Штурм. ВIНТIВКА",
+                  "value": "ШТУРМОВА ГВИНТIВКА",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "UpgradeName",
                   "org_tbyte": 9,
-                  "value": "Штурм. ВIНТIВКА",
+                  "value": "ШТУРМОВА ГВИНТIВКА",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Weight",
                   "org_tbyte": 9,
-                  "value": "3000 р.",
+                  "value": "3000 г.",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -10288,7 +10288,7 @@
                 {
                   "name": "Weight",
                   "org_tbyte": 9,
-                  "value": "1076 р.",
+                  "value": "1076 г.",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -10337,7 +10337,7 @@
                 {
                   "name": "Longname",
                   "org_tbyte": 9,
-                  "value": "ПАРНИЙ SILVERBALLER",
+                  "value": "ДВА SILVERBALLER",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -10358,14 +10358,14 @@
                 {
                   "name": "UpgradeName",
                   "org_tbyte": 9,
-                  "value": "ПАРНI ПIСТОЛЕТИ",
+                  "value": "ДВА ПIСТОЛЕТИ",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Weight",
                   "org_tbyte": 9,
-                  "value": "1076 р.",
+                  "value": "1076 г.",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -10428,21 +10428,21 @@
                 {
                   "name": "Type",
                   "org_tbyte": 9,
-                  "value": "Дробiвник",
+                  "value": "Дробовик",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "UpgradeName",
                   "org_tbyte": 9,
-                  "value": "Дробiвник",
+                  "value": "Дробовик",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Weight",
                   "org_tbyte": 9,
-                  "value": "4400 р.",
+                  "value": "4400 г.",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -10505,21 +10505,21 @@
                 {
                   "name": "Type",
                   "org_tbyte": 9,
-                  "value": "СНАЙП. ВIНТIВКА",
+                  "value": "СНАЙП. ГВИНТIВКА",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "UpgradeName",
                   "org_tbyte": 9,
-                  "value": "СНАЙП. ВIНТIВКА",
+                  "value": "СНАЙП. ГВИНТIВКА",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Weight",
                   "org_tbyte": 9,
-                  "value": "6950 р.",
+                  "value": "6950 г.",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -10596,7 +10596,7 @@
                 {
                   "name": "Weight",
                   "org_tbyte": 9,
-                  "value": "2880 р.",
+                  "value": "2880 г.",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -10694,14 +10694,14 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Невиявлена мiна; вибухаэ вiд детонатора з радiусом дiъ 25 метрiв.",
+                  "value": "Прихована мiна; вибухаэ вiд детонатора з радiусом дiъ 25 метрiв.",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Longname",
                   "org_tbyte": 9,
-                  "value": "НЕВIДНАРОЖУВАНА МIНА З ДИСТАНЦIЙНИМ УПРАВЛIННЯМ",
+                  "value": "ПРИХОВАНА МIНА З ДИСТАНЦIЙНИМ УПРАВЛIННЯМ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -10757,14 +10757,14 @@
                 {
                   "name": "Longname",
                   "org_tbyte": 9,
-                  "value": "АНАСТЕЗУЮЧЕ",
+                  "value": "АНЕСТЕТИК",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Shortname",
                   "org_tbyte": 9,
-                  "value": "АНАСТЕЗУЮЧЕ",
+                  "value": "АНЕСТЕТИК",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -10778,7 +10778,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Цей популярний (хоч i заборонений) на шкiльних вечiрках препарат перетворюэ навiть найфанатичнiшого ченця-буддиста на сексуально стурбованого лунатика.",
+                  "value": "Цей популярний (хоч i заборонений) на шкiльних вечiрках препарат перетворюэ навiть найфанатичнiшого ченця-буддиста на сексуально стурбованого.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -10806,7 +10806,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Саме цим напоэм багато трудяг волiють втамовувати спрагу. \nЗабавно, що часто вiн i вiдволiкаэ ъх вiд роботи.",
+                  "value": "Саме цим напоэм багато трудяг волiють втамовувати спрагу. \nДивно, що часто вiн i вiдволiкаэ ъх вiд роботи.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -10904,7 +10904,7 @@
                 {
                   "name": "Shortname",
                   "org_tbyte": 9,
-                  "value": "ПОРТВЕЙН УРОДЖА 1958",
+                  "value": "ПОРТВЕЙН УРОЖАЮ 1958",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -10925,14 +10925,14 @@
                 {
                   "name": "LongName",
                   "org_tbyte": 9,
-                  "value": "ПЛЯШКА ВИСКИ",
+                  "value": "ПЛЯШКА ВIСКI",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "ShortName",
                   "org_tbyte": 9,
-                  "value": "ВИСКИ",
+                  "value": "ВIСКI",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -10981,14 +10981,14 @@
                 {
                   "name": "Longname",
                   "org_tbyte": 9,
-                  "value": "ПИРОЖНЕ",
+                  "value": "ТIСТЕЧКО",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Shortname",
                   "org_tbyte": 9,
-                  "value": "ПИРОЖНЕ",
+                  "value": "ТIСТЕЧКО",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -11282,7 +11282,7 @@
                 {
                   "name": "Weight",
                   "org_tbyte": 9,
-                  "value": "625 р.",
+                  "value": "625 г.",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -11331,7 +11331,7 @@
                 {
                   "name": "Weight",
                   "org_tbyte": 9,
-                  "value": "1715 р.",
+                  "value": "1715 г.",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -11387,7 +11387,7 @@
                 {
                   "name": "Weight",
                   "org_tbyte": 9,
-                  "value": "720 р.",
+                  "value": "720 г.",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -11443,7 +11443,7 @@
                 {
                   "name": "Weight",
                   "org_tbyte": 9,
-                  "value": "810 р.",
+                  "value": "810 г.",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -11499,7 +11499,7 @@
                 {
                   "name": "Weight",
                   "org_tbyte": 9,
-                  "value": "1250 р.",
+                  "value": "1250 г.",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -11541,21 +11541,21 @@
                 {
                   "name": "Shortname",
                   "org_tbyte": 9,
-                  "value": "ГВОЗДОМЕТ",
+                  "value": "ЦВЯХОМЕТ",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Type",
                   "org_tbyte": 9,
-                  "value": "БЕЗПРОВIДНИЙ ГОЗДОМЕТ",
+                  "value": "БЕЗПРОВIДНИЙ ЦВЯХОМЕТ",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Weight",
                   "org_tbyte": 9,
-                  "value": "545 р.",
+                  "value": "545 г.",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -11569,7 +11569,7 @@
                 {
                   "name": "Caliber",
                   "org_tbyte": 9,
-                  "value": "Неодруженi",
+                  "value": "Холостi",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -11611,7 +11611,7 @@
                 {
                   "name": "Weight",
                   "org_tbyte": 9,
-                  "value": "1250 р.",
+                  "value": "1250 г.",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -11667,7 +11667,7 @@
                 {
                   "name": "Weight",
                   "org_tbyte": 9,
-                  "value": "1200 р.",
+                  "value": "1200 г.",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -11723,7 +11723,7 @@
                 {
                   "name": "Weight",
                   "org_tbyte": 9,
-                  "value": "700 р.",
+                  "value": "700 г.",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -11772,7 +11772,7 @@
                 {
                   "name": "Weight",
                   "org_tbyte": 9,
-                  "value": "1959 р.",
+                  "value": "1959 г.",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -11849,7 +11849,7 @@
                 {
                   "name": "Shortname",
                   "org_tbyte": 9,
-                  "value": "БУТИЛЬ ЕФIРУ",
+                  "value": "БУТЛЯ ЕФIРУ",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -12010,14 +12010,14 @@
                 {
                   "name": "Longname",
                   "org_tbyte": 9,
-                  "value": "Алмази",
+                  "value": "Дiаманти",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Shortname",
                   "org_tbyte": 9,
-                  "value": "Алмази",
+                  "value": "Дiаманти",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -12507,21 +12507,21 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Ця дивна ключ-карта вiдкриваэ дверi в Крисклуб, хоч би що це було.",
+                  "value": "Ця дивна ключ-карта вiдкриваэ дверi в Щурклуб, хоч би що це було.",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Longname",
                   "org_tbyte": 9,
-                  "value": "Ключ-карта Крисклуба",
+                  "value": "Ключ-карта Щурклуба",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Shortname",
                   "org_tbyte": 9,
-                  "value": "Ключ-карта Крисклуба",
+                  "value": "Ключ-карта Щурклуба",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -12913,7 +12913,7 @@
                 {
                   "name": "Shortname",
                   "org_tbyte": 9,
-                  "value": "КЛЮЧ-КАРТА ВIД ГОЛОВНОЪ БУДИНКИ",
+                  "value": "КЛЮЧ-КАРТА ВIД ГОЛОВНОЪ БУДIВЛI",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -14166,7 +14166,7 @@
                 {
                   "name": "Shortname",
                   "org_tbyte": 9,
-                  "value": "ПНЕОМ. ВIНТIВКА",
+                  "value": "ПНЕОМ. ГВИНТIВКА",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -14180,7 +14180,7 @@
                 {
                   "name": "Weight",
                   "org_tbyte": 9,
-                  "value": "2721 р.",
+                  "value": "2721 г.",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -14222,7 +14222,7 @@
                 {
                   "name": "Shortname",
                   "org_tbyte": 9,
-                  "value": "ПНЕОМ. ВIНТIВКА",
+                  "value": "ПНЕОМ. ГВИНТIВКА",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -14236,7 +14236,7 @@
                 {
                   "name": "Weight",
                   "org_tbyte": 9,
-                  "value": "2721 р.",
+                  "value": "2721 г.",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -14285,14 +14285,14 @@
                 {
                   "name": "Type",
                   "org_tbyte": 9,
-                  "value": "ВIНТIВКА ЗI СК. ЗАТВОРОМ",
+                  "value": "ГВИНТIВКА ЗI СК. ЗАТВОРОМ",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Weight",
                   "org_tbyte": 9,
-                  "value": "3960 р.",
+                  "value": "3960 г.",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -14348,7 +14348,7 @@
                 {
                   "name": "Weight",
                   "org_tbyte": 9,
-                  "value": "3600 р.",
+                  "value": "3600 г.",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -14404,7 +14404,7 @@
                 {
                   "name": "Weight",
                   "org_tbyte": 9,
-                  "value": "5100 р.",
+                  "value": "5100 г.",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -14446,21 +14446,21 @@
                 {
                   "name": "Shortname",
                   "org_tbyte": 9,
-                  "value": "Дробiвник",
+                  "value": "Дробовик",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Type",
                   "org_tbyte": 9,
-                  "value": "Дробiвник",
+                  "value": "Дробовик",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Weight",
                   "org_tbyte": 9,
-                  "value": "3500 р.",
+                  "value": "3500 г.",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -14516,7 +14516,7 @@
                 {
                   "name": "Weight",
                   "org_tbyte": 9,
-                  "value": "3000 р.",
+                  "value": "3000 г.",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -14572,7 +14572,7 @@
                 {
                   "name": "Weight",
                   "org_tbyte": 9,
-                  "value": "2700 р.",
+                  "value": "2700 г.",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -14628,7 +14628,7 @@
                 {
                   "name": "Weight",
                   "org_tbyte": 9,
-                  "value": "2540 р.",
+                  "value": "2540 г.",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -14740,7 +14740,7 @@
                 {
                   "name": "Weight",
                   "org_tbyte": 9,
-                  "value": "3000 р.",
+                  "value": "3000 г.",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -14880,7 +14880,7 @@
                 {
                   "name": "Weight",
                   "org_tbyte": 9,
-                  "value": "3810 р.",
+                  "value": "3810 г.",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -14936,7 +14936,7 @@
                 {
                   "name": "Weight",
                   "org_tbyte": 9,
-                  "value": "4310 р.",
+                  "value": "4310 г.",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -14992,7 +14992,7 @@
                 {
                   "name": "Weight",
                   "org_tbyte": 9,
-                  "value": "5100 р.",
+                  "value": "5100 г.",
                   "numChildren": 0,
                   "type": "data"
                 }
