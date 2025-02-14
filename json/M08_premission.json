@@ -3071,7 +3071,7 @@
                 {
                   "name": "MissionFailedMenu",
                   "org_tbyte": 9,
-                  "value": "МIСIЯ ПРОВАЛЕНО",
+                  "value": "МIСIЯ ПРОВАЛЕНА",
                   "numChildren": 0,
                   "type": "data"
                 },

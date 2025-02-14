@@ -9,10 +9,10 @@ namespace ZipBuilder
     {
         static string localPath = "C:\\Users\\roman\\OneDrive\\Desktop\\Hitman_Ukr";
         static void Main()
-        {           
+        {
             if (Directory.Exists(localPath + "\\loc"))
             {
-                Directory.Delete(localPath + "\\loc", true);            
+                Directory.Delete(localPath + "\\loc", true);
             }
             Directory.CreateDirectory(localPath + "\\loc");
 
@@ -69,8 +69,36 @@ namespace ZipBuilder
                     archive.CreateEntryFromFile(filePath, entryPath, CompressionLevel.Optimal);
                 }
 
-                Console.WriteLine($"Файл {filePath} додано до архіву {archivePath}");
+                Console.WriteLine($"Файл {filePath} додано до архіву {archivePath}");              
             }
+
+            if (File.Exists(archiveFolder + "\\Hitman_Ukr.zip"))
+            {
+                File.Delete(archiveFolder + "\\Hitman_Ukr.zip");
+            }
+
+            using (FileStream zipToCreate = new FileStream(archiveFolder + "\\Hitman_Ukr.zip", FileMode.Create))
+            using (ZipArchive archive = new ZipArchive(zipToCreate, ZipArchiveMode.Create))
+            {
+                var scenesFolder = archiveFolder + "\\Scenes";
+                string rootFolderName = Path.GetFileName(scenesFolder.TrimEnd(Path.DirectorySeparatorChar));
+
+                // Додаємо всі файли з папки до архіву разом із папкою
+                foreach (string file in Directory.GetFiles(scenesFolder, "*", SearchOption.AllDirectories))
+                {
+                    Console.WriteLine($"Processing - {file}");
+                    string relativePath = Path.GetRelativePath(scenesFolder, file);
+                    string entryScene = Path.Combine(rootFolderName, relativePath).Replace("\\", "/"); // Відносний шлях у архіві
+                    archive.CreateEntryFromFile(file, entryScene);
+                }
+
+
+                string additionalFile = archiveFolder + "\\HitmanBloodMoney.exe";
+                archive.CreateEntryFromFile(additionalFile, "HitmanBloodMoney.exe");
+
+            }
+
+            Console.WriteLine("Архів успішно створено!");
         }
         static void CreateMainLocks()
         {
@@ -183,7 +211,7 @@ namespace ZipBuilder
                     continue;
                 }
 
-                string newLocFile = localPath + @"\loc" + "\\" + $"M{i.ToString("D2")}_postmission.loc";               
+                string newLocFile = localPath + @"\loc" + "\\" + $"M{i.ToString("D2")}_postmission.loc";
 
                 Console.WriteLine($"Copying: {postmission} -> {locFile}");
 
