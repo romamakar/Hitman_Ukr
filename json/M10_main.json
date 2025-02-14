@@ -1353,7 +1353,7 @@
             {
               "name": "AvailableFunds",
               "org_tbyte": 9,
-              "value": "ГРОШЕЙ НА РАХУНОК: %i",
+              "value": "ГРОШЕЙ НА РАХУНКУ: %i",
               "numChildren": 0,
               "type": "data"
             },
@@ -9175,7 +9175,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Iнструмент полiрування нiгтiв. У руках убивцi – смертельна зброя",
+                  "value": "Iнструмент полiрування нiгтiв. У руках убивцi - смертельна зброя",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -9455,7 +9455,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Нержавiюча сталь, медичний шприц. Мiстить несмертельну дозу мiсцевого знеболюючого – рiвно стiльки, щоб звалити з нiг дорослу людину.",
+                  "value": "Нержавiюча сталь, медичний шприц. Мiстить несмертельну дозу мiсцевого знеболюючого - рiвно стiльки, щоб звалити з нiг дорослу людину.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -15676,7 +15676,7 @@
                                 {
                                   "name": "All_F_C_V_S_HMWW_02C",
                                   "org_tbyte": 41,
-                                  "value": "Допоможiть! Полiцiя – злодiъ!",
+                                  "value": "Допоможiть! Полiцiя - злодiъ!",
                                   "numChildren": 0,
                                   "type": "data"
                                 }
@@ -16271,7 +16271,7 @@
                                 {
                                   "name": "All_F_G_V_S_HMSB_02G",
                                   "org_tbyte": 41,
-                                  "value": "Гей, ти – пiшов звiдси!",
+                                  "value": "Гей, ти - пiшов звiдси!",
                                   "numChildren": 0,
                                   "type": "data"
                                 }
@@ -16320,7 +16320,7 @@
                                 {
                                   "name": "All_F_G_V_T_HMT_02G",
                                   "org_tbyte": 41,
-                                  "value": "Це вiн – вогонь!",
+                                  "value": "Це вiн - вогонь!",
                                   "numChildren": 0,
                                   "type": "data"
                                 }
@@ -17041,7 +17041,7 @@
                                 {
                                   "name": "All_G_C_V_T_HMCS_01C",
                                   "org_tbyte": 41,
-                                  "value": "О господи – вбивство! Вбивство!",
+                                  "value": "О господи - вбивство! Вбивство!",
                                   "numChildren": 0,
                                   "type": "data"
                                 }
@@ -17594,7 +17594,7 @@
                                 {
                                   "name": "All_G_F_V_S_HMWW_02C",
                                   "org_tbyte": 41,
-                                  "value": "Допоможiть! Полiцiя – злодiъ!",
+                                  "value": "Допоможiть! Полiцiя - злодiъ!",
                                   "numChildren": 0,
                                   "type": "data"
                                 }
@@ -17678,7 +17678,7 @@
                                 {
                                   "name": "All_G_F_V_T_HMHNGW_02C",
                                   "org_tbyte": 41,
-                                  "value": "Боже, боже! Психопат, вiн уб'э нас – на допомогу!",
+                                  "value": "Боже, боже! Психопат, вiн уб'э нас - на допомогу!",
                                   "numChildren": 0,
                                   "type": "data"
                                 }
@@ -17913,7 +17913,7 @@
                             {
                               "name": "All_G_G_A_Suspicious_01G",
                               "org_tbyte": 41,
-                              "value": "Господи – це ще що?",
+                              "value": "Господи - це ще що?",
                               "numChildren": 0,
                               "type": "data"
                             },
@@ -18280,7 +18280,7 @@
                                 {
                                   "name": "All_G_G_E_HMSI_M1_02G",
                                   "org_tbyte": 41,
-                                  "value": "Гей! Не твоэ – не чiпай!",
+                                  "value": "Гей! Не твоэ - не чiпай!",
                                   "numChildren": 0,
                                   "type": "data"
                                 },
@@ -18308,7 +18308,7 @@
                                 {
                                   "name": "All_G_G_E_HMSI_M2_02G",
                                   "org_tbyte": 41,
-                                  "value": "Гей! Не твоэ – не чiпай!",
+                                  "value": "Гей! Не твоэ - не чiпай!",
                                   "numChildren": 0,
                                   "type": "data"
                                 },
@@ -18336,7 +18336,7 @@
                                 {
                                   "name": "All_G_G_E_HMSI_M3_02G",
                                   "org_tbyte": 41,
-                                  "value": "Гей! Не твоэ – не чiпай!",
+                                  "value": "Гей! Не твоэ - не чiпай!",
                                   "numChildren": 0,
                                   "type": "data"
                                 },
@@ -19442,7 +19442,7 @@
                                 {
                                   "name": "All_G_G_V_S_HMWW_01G",
                                   "org_tbyte": 41,
-                                  "value": "Гей, нагорi – спускайся!",
+                                  "value": "Гей, нагорi - спускайся!",
                                   "numChildren": 0,
                                   "type": "data"
                                 },
@@ -19691,7 +19691,7 @@
                             {
                               "name": "All_G_G_WP_M2_02G",
                               "org_tbyte": 41,
-                              "value": "Ще раз – i ти отримаэш кулю.",
+                              "value": "Ще раз - i ти отримаэш кулю.",
                               "numChildren": 0,
                               "type": "data"
                             }
@@ -19712,7 +19712,7 @@
                             {
                               "name": "All_G_G_WP_M3_02G",
                               "org_tbyte": 41,
-                              "value": "Ще раз – i ти отримаэш кулю.",
+                              "value": "Ще раз - i ти отримаэш кулю.",
                               "numChildren": 0,
                               "type": "data"
                             }
@@ -20394,7 +20394,7 @@
                                 {
                                   "name": "All_ST_C_V_T_HMCS_01C",
                                   "org_tbyte": 41,
-                                  "value": "О господи – вбивство! Вбивство!",
+                                  "value": "О господи - вбивство! Вбивство!",
                                   "numChildren": 0,
                                   "type": "data"
                                 }
@@ -20870,7 +20870,7 @@
                                 {
                                   "name": "All_ST_F_V_S_HMWW_02C",
                                   "org_tbyte": 41,
-                                  "value": "Допоможiть! Полiцiя – злодiъ!",
+                                  "value": "Допоможiть! Полiцiя - злодiъ!",
                                   "numChildren": 0,
                                   "type": "data"
                                 }
@@ -20947,7 +20947,7 @@
                                 {
                                   "name": "All_ST_F_V_T_HMHNGW_02C",
                                   "org_tbyte": 41,
-                                  "value": "Боже, боже! Психопат, вiн уб'э нас – на допомогу!",
+                                  "value": "Боже, боже! Психопат, вiн уб'э нас - на допомогу!",
                                   "numChildren": 0,
                                   "type": "data"
                                 }
@@ -21147,7 +21147,7 @@
                             {
                               "name": "All_ST_G_A_Suspicious_01G",
                               "org_tbyte": 41,
-                              "value": "Господи – це ще що?",
+                              "value": "Господи - це ще що?",
                               "numChildren": 0,
                               "type": "data"
                             },
@@ -21308,7 +21308,7 @@
                             {
                               "name": "All_S_G_E_HMSI_02G",
                               "org_tbyte": 41,
-                              "value": "Гей! Не твоэ – не чiпай!",
+                              "value": "Гей! Не твоэ - не чiпай!",
                               "numChildren": 0,
                               "type": "data"
                             },
@@ -21997,7 +21997,7 @@
                                 {
                                   "name": "All_ST_G_V_S_HMSB_02G",
                                   "org_tbyte": 41,
-                                  "value": "Гей, ти – пiшов геть!",
+                                  "value": "Гей, ти - пiшов геть!",
                                   "numChildren": 0,
                                   "type": "data"
                                 },
@@ -22018,7 +22018,7 @@
                                 {
                                   "name": "All_ST_G_V_S_HMWW_01G",
                                   "org_tbyte": 41,
-                                  "value": "Гей, нагорi – спускайся!",
+                                  "value": "Гей, нагорi - спускайся!",
                                   "numChildren": 0,
                                   "type": "data"
                                 },
@@ -22053,7 +22053,7 @@
                                 {
                                   "name": "All_ST_G_V_T_HMHG_01G",
                                   "org_tbyte": 41,
-                                  "value": "Вiн озброэний – в укриття!",
+                                  "value": "Вiн озброэний - в укриття!",
                                   "numChildren": 0,
                                   "type": "data"
                                 },
@@ -22077,7 +22077,7 @@
                                     {
                                       "name": "All_ST_G_V_T_HMT_01G",
                                       "org_tbyte": 41,
-                                      "value": "Ось вiн – тримай його!",
+                                      "value": "Ось вiн - тримай його!",
                                       "numChildren": 0,
                                       "type": "data"
                                     },
@@ -22098,7 +22098,7 @@
                                     {
                                       "name": "All_ST_G_V_T_HMT_02G",
                                       "org_tbyte": 41,
-                                      "value": "Ось вiн – тримай його!",
+                                      "value": "Ось вiн - тримай його!",
                                       "numChildren": 0,
                                       "type": "data"
                                     },
@@ -22564,7 +22564,7 @@
                                 {
                                   "name": "All_S_C_V_S_HMWW_02C",
                                   "org_tbyte": 41,
-                                  "value": "Допоможiть! Полiцiя – злодiъ!",
+                                  "value": "Допоможiть! Полiцiя - злодiъ!",
                                   "numChildren": 0,
                                   "type": "data"
                                 }
@@ -23124,7 +23124,7 @@
                                 {
                                   "name": "All_S_G_E_HMSI_M1_02G",
                                   "org_tbyte": 41,
-                                  "value": "Гей! Не твоэ – не чiпай!",
+                                  "value": "Гей! Не твоэ - не чiпай!",
                                   "numChildren": 0,
                                   "type": "data"
                                 },
@@ -23152,7 +23152,7 @@
                                 {
                                   "name": "All_S_G_E_HMSI_M2_02G",
                                   "org_tbyte": 41,
-                                  "value": "Гей! Не твоэ – не чiпай!",
+                                  "value": "Гей! Не твоэ - не чiпай!",
                                   "numChildren": 0,
                                   "type": "data"
                                 },
@@ -23180,7 +23180,7 @@
                                 {
                                   "name": "All_S_G_E_HMSI_M3_02G",
                                   "org_tbyte": 41,
-                                  "value": "Гей! Не твоэ – не чiпай!",
+                                  "value": "Гей! Не твоэ - не чiпай!",
                                   "numChildren": 0,
                                   "type": "data"
                                 },
@@ -23551,7 +23551,7 @@
                                 {
                                   "name": "All_S_G_V_S_HMSB_02G",
                                   "org_tbyte": 41,
-                                  "value": "Гей, ти – пiшов звiдси!",
+                                  "value": "Гей, ти - пiшов звiдси!",
                                   "numChildren": 0,
                                   "type": "data"
                                 }
@@ -23600,7 +23600,7 @@
                                 {
                                   "name": "All_S_G_V_T_HMT_02G",
                                   "org_tbyte": 41,
-                                  "value": "Це вiн – вогонь!",
+                                  "value": "Це вiн - вогонь!",
                                   "numChildren": 0,
                                   "type": "data"
                                 }
@@ -34585,7 +34585,7 @@
                 {
                   "name": "M10_AMS_04Afrikaner",
                   "org_tbyte": 41,
-                  "value": "Дякую, шейх. Впевнений – нашi почуття взаэмнi.",
+                  "value": "Дякую, шейх. Впевнений - нашi почуття взаэмнi.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -34760,14 +34760,14 @@
                 {
                   "name": "M10_HMCI_01HM",
                   "org_tbyte": 41,
-                  "value": "На мене заброньовано номер. Прiзвище – Кропс.",
+                  "value": "На мене заброньовано номер. Прiзвище - Кропс.",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "M10_HMCI_02WCF",
                   "org_tbyte": 41,
-                  "value": "Секундочку... Точно! Ось ваша ключ карта. У нас змiнився принцип роботи ключiв-карток – тепер вони дають доступ тiльки на ваш поверх.",
+                  "value": "Секундочку... Точно! Ось ваша ключ карта. У нас змiнився принцип роботи ключiв-карток - тепер вони дають доступ тiльки на ваш поверх.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -34949,7 +34949,7 @@
                 {
                   "name": "M10_SHMMIP_04HM",
                   "org_tbyte": 41,
-                  "value": "Я – пас.",
+                  "value": "Я - пас.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -35929,7 +35929,7 @@
                 {
                   "name": "M10_CGWI_04CFF",
                   "org_tbyte": 41,
-                  "value": "Ще сотня. Програю – йду.",
+                  "value": "Ще сотня. Програю - йду.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -36268,7 +36268,7 @@
                     {
                       "name": "M10_NVIPP_M2_02G",
                       "org_tbyte": 41,
-                      "value": "Повторюю – немаэ ВIП, немаэ входу. Вiдiйдiть.",
+                      "value": "Повторюю - немаэ ВIП, немаэ входу. Вiдiйдiть.",
                       "numChildren": 0,
                       "type": "data"
                     }
@@ -36289,7 +36289,7 @@
                     {
                       "name": "M10_NVIPP_M3_02G",
                       "org_tbyte": 41,
-                      "value": "Повторюю – немаэ ВIП, немаэ входу. Вiдiйдiть.",
+                      "value": "Повторюю - немаэ ВIП, немаэ входу. Вiдiйдiть.",
                       "numChildren": 0,
                       "type": "data"
                     }
@@ -36307,7 +36307,7 @@
                 {
                   "name": "M10_NR_05CFF",
                   "org_tbyte": 41,
-                  "value": "Ти – лисий убивця! Всi цi люди на Мiссiсiпi, у Новому Орлеанi, i... Рятуйте!",
+                  "value": "Ти - лисий убивця! Всi цi люди на Мiссiсiпi, у Новому Орлеанi, i... Рятуйте!",
                   "numChildren": 0,
                   "type": "data"
                 },
