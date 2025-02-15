@@ -7,7 +7,7 @@ namespace ZipBuilder
 {
     internal class Program
     {
-        static string localPath = "C:\\Users\\roman\\OneDrive\\Desktop\\Hitman_Ukr";
+        static string localPath = ".";
         static void Main()
         {
             if (Directory.Exists(localPath + "\\loc"))
@@ -27,7 +27,7 @@ namespace ZipBuilder
         static void UpdateZip()
         {
             string sourceFolder = localPath + @"\loc"; // Папка з .loc файлами
-            string archiveFolder = localPath + @"\release-sources";  // Папка з архівами
+            string archiveFolder = localPath + @"\";  // Папка з архівами
 
             if (!Directory.Exists(sourceFolder) || !Directory.Exists(archiveFolder))
             {
