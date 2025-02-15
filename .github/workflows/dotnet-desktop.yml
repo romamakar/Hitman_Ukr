@@ -34,6 +34,6 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           files: "Hitman_Ukr.zip"
-          tag_name: "master"  # Можна використовувати будь-який тег, якщо потрібно
+          tag_name: "zip"  # Можна використовувати будь-який тег, якщо потрібно
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
