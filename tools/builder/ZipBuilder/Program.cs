@@ -213,7 +213,7 @@ namespace ZipBuilder
 
                 string newLocFile = localPath + @"\loc" + "\\" + $"M{i.ToString("D2")}_postmission.loc";
 
-                Console.WriteLine($"Copying: {postmission} -> {newLocFile}");
+                Console.WriteLine($"Copying: {locFile} -> {newLocFile}");
 
                 File.Copy(locFile, newLocFile, false);
             }
