@@ -24,10 +24,10 @@ jobs:
 
       - name: Build the project
         working-directory: tools/builder
-        run: dotnet build --configuration Release --no-restore
+        run: dotnet build --configuration Release
 
       - name: Run the program to generate the zip
-        run: dotnet .\tools\builder\ZipBuilder\bin\Release\net8.0\ZipBuilder.dll
+        run: .\tools\builder\ZipBuilder\bin\Release\net8.0\ZipBuilder.exe
         shell: powershell
 
       - name: Upload release asset
