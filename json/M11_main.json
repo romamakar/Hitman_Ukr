@@ -11877,7 +11877,7 @@
                 {
                   "name": "Shortname",
                   "org_tbyte": 9,
-                  "value": "ПАЛЬНЕ ДЛЯ ЗАПАЛЬНИК",
+                  "value": "ПАЛЬНЕ ДЛЯ ЗАПАЛЬНИЧОК",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -11891,7 +11891,7 @@
                 {
                   "name": "Longname",
                   "org_tbyte": 9,
-                  "value": "Карта на вiдвiдування будинку розпусти",
+                  "value": "Карта для вiдвiдування будинку розпусти",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -13158,7 +13158,7 @@
                 {
                   "name": "Longname",
                   "org_tbyte": 9,
-                  "value": "Ключ вiд седана",
+                  "value": "Ключ вiд седану",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -13438,7 +13438,7 @@
                 {
                   "name": "Shortname",
                   "org_tbyte": 9,
-                  "value": "ПАПЕР",
+                  "value": "ПАПIР",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -13550,7 +13550,7 @@
                 {
                   "name": "Shortname",
                   "org_tbyte": 9,
-                  "value": "ПРОПУСК VIP",
+                  "value": "ПРОПУСТКА VIP",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -13795,14 +13795,14 @@
                 {
                   "name": "LongName",
                   "org_tbyte": 9,
-                  "value": "Прапори з пальним",
+                  "value": "Фляга з пальним",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "ShortName",
                   "org_tbyte": 9,
-                  "value": "ФЛЯГА З ГАРЮЧИМ",
+                  "value": "ФЛЯГА З ПАЛЬНИМ",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -13830,7 +13830,7 @@
                 {
                   "name": "ShortName",
                   "org_tbyte": 9,
-                  "value": "ФЛЯГА З ГАРЮЧИМ",
+                  "value": "ФЛЯГА З ПАЛЬНИМ",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -13872,7 +13872,7 @@
                 {
                   "name": "Longname",
                   "org_tbyte": 9,
-                  "value": "КОПIЯ РУЖКИ MKIII",
+                  "value": "КОПIЯ MARK MKIII",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -14019,7 +14019,7 @@
                 {
                   "name": "Shortname",
                   "org_tbyte": 9,
-                  "value": "ВIДЕОКАСЕТУ",
+                  "value": "ВIДЕОКАСЕТА",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -14040,7 +14040,7 @@
                 {
                   "name": "Shortname",
                   "org_tbyte": 9,
-                  "value": "КАССЕТА VHS",
+                  "value": "КАСЕТА VHS",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -14068,7 +14068,7 @@
                 {
                   "name": "Shortname",
                   "org_tbyte": 9,
-                  "value": "КЕВЛАРОВИЙ БРОНЕЖИЛЬ",
+                  "value": "КЕВЛАРОВИЙ БРОНЕЖИЛЕТ",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -14124,7 +14124,7 @@
                 {
                   "name": "Shortname",
                   "org_tbyte": 9,
-                  "value": "ЖЕТОН ВIД ГАРДЕРОБА",
+                  "value": "ЖЕТОН ВIД ГАРДЕРОБУ",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -14159,21 +14159,21 @@
                 {
                   "name": "Longname",
                   "org_tbyte": 9,
-                  "value": "ПНЕОМ. ВIНТОВКА PEAMAN",
+                  "value": "ПНЕВМ. ГВИНТIВКА PEAMAN",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Shortname",
                   "org_tbyte": 9,
-                  "value": "ПНЕОМ. ГВИНТIВКА",
+                  "value": "ПНЕВМ. ГВИНТIВКА",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Type",
                   "org_tbyte": 9,
-                  "value": "ПНЕОМ. ВIНТОВКА 22 КАЛIБР",
+                  "value": "ПНЕВМ. ГВИНТIВКА 22 КАЛIБР",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -14215,21 +14215,21 @@
                 {
                   "name": "Longname",
                   "org_tbyte": 9,
-                  "value": "ПНЕОМ. ВIНТОВКА PEAMAN",
+                  "value": "ПНЕВМ. ГВИНТIВКА PEAMAN",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Shortname",
                   "org_tbyte": 9,
-                  "value": "ПНЕОМ. ГВИНТIВКА",
+                  "value": "ПНЕВМ. ГВИНТIВКА",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Type",
                   "org_tbyte": 9,
-                  "value": "ПНЕОМ. ВIНТОВКА 22 КАЛIБР",
+                  "value": "ПНЕВМ. ГВИНТIВКА 22 КАЛIБР",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -14271,7 +14271,7 @@
                 {
                   "name": "Longname",
                   "org_tbyte": 9,
-                  "value": "ВIНТОВКА MKIII",
+                  "value": "ГВИНТIВКА MKIII",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -14495,7 +14495,7 @@
                 {
                   "name": "Longname",
                   "org_tbyte": 9,
-                  "value": "ВIНТОВКА SG552 COMMANDO",
+                  "value": "ГВИНТIВКА SG552 COMMANDO",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -14859,14 +14859,14 @@
                 {
                   "name": "Longname",
                   "org_tbyte": 9,
-                  "value": "СЛОНОВА РУШКА",
+                  "value": "СЛОНОВА РУШНИЦЯ",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Shortname",
                   "org_tbyte": 9,
-                  "value": "СЛОНОВА РУШКА",
+                  "value": "СЛОНОВА РУШНИЦЯ",
                   "numChildren": 0,
                   "type": "data"
                 },
