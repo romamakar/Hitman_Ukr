@@ -11791,14 +11791,14 @@
             {
               "name": "Longname",
               "org_tbyte": 9,
-              "value": "Напрямок до реабiлiтацiйного центру",
+              "value": "Перепустка до реабiлiтацiйного центру",
               "numChildren": 0,
               "type": "data"
             },
             {
               "name": "Shortname",
               "org_tbyte": 9,
-              "value": "НАПРЯМОК",
+              "value": "ПЕРЕПУСТКА",
               "numChildren": 0,
               "type": "data"
             }
