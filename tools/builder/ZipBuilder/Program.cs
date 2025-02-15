@@ -27,7 +27,7 @@ namespace ZipBuilder
         static void UpdateZip()
         {
             string sourceFolder = localPath + @"\loc"; // Папка з .loc файлами
-            string archiveFolder = localPath + @"\";  // Папка з архівами
+            string archiveFolder = localPath + @"\release-sources";  // Папка з архівами
 
             if (!Directory.Exists(sourceFolder) || !Directory.Exists(archiveFolder))
             {
@@ -72,12 +72,12 @@ namespace ZipBuilder
                 Console.WriteLine($"Файл {filePath} додано до архіву {archivePath}");              
             }
 
-            if (File.Exists(archiveFolder + "\\Hitman_Ukr.zip"))
+            if (File.Exists("Hitman_Ukr.zip"))
             {
-                File.Delete(archiveFolder + "\\Hitman_Ukr.zip");
+                File.Delete("Hitman_Ukr.zip");
             }
 
-            using (FileStream zipToCreate = new FileStream(archiveFolder + "\\Hitman_Ukr.zip", FileMode.Create))
+            using (FileStream zipToCreate = new FileStream("Hitman_Ukr.zip", FileMode.Create))
             using (ZipArchive archive = new ZipArchive(zipToCreate, ZipArchiveMode.Create))
             {
                 var scenesFolder = archiveFolder + "\\Scenes";
