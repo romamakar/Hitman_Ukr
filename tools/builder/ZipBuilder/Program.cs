@@ -213,7 +213,7 @@ namespace ZipBuilder
 
                 string newLocFile = localPath + @"\loc" + "\\" + $"M{i.ToString("D2")}_postmission.loc";
 
-                Console.WriteLine($"Copying: {postmission} -> {locFile}");
+                Console.WriteLine($"Copying: {postmission} -> {newLocFile}");
 
                 File.Copy(locFile, newLocFile, false);
             }
@@ -259,7 +259,7 @@ namespace ZipBuilder
 
                 string destinationFilePath = Path.Combine(jsonFolder, fileName);
                 File.WriteAllText(destinationFilePath, newJsonText, Encoding.UTF8);
-                Console.WriteLine($"{i1}/{files.Length}");
+                Console.WriteLine($"Processing - {destinationFilePath}");
             }
         }
 
