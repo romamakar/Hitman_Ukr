@@ -27,8 +27,7 @@ jobs:
         run: dotnet build --configuration Release --no-restore
 
       - name: Run the program to generate the zip
-        run: |
-          .\tools\builder\bin\Release\net8.0\ZipBuilder.dll
+        run: dotnet .\tools\builder\bin\Release\net8.0\ZipBuilder.dll
         shell: powershell
 
       - name: Upload release asset
