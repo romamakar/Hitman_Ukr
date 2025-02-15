@@ -10,7 +10,6 @@ namespace ZipBuilder
         static string localPath = ".";
         static void Main()
         {
-            throw new Exception();
             if (Directory.Exists(localPath + "\\loc"))
             {
                 Directory.Delete(localPath + "\\loc", true);
