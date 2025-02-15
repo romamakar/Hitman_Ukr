@@ -1,0 +1,40 @@
+name: Build and Release Zip
+
+on:
+  push:
+    branches:
+      - "master"
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: "8.0.x"
+
+      - name: Restore dependencies
+        working-directory: tools/builder
+        run: dotnet restore
+
+      - name: Build the project
+        working-directory: tools/builder
+        run: dotnet build --configuration Release --no-restore
+
+      - name: Run the program to generate the zip
+        run: |
+          .\tools\builder\bin\Release\net8.0\ZipBuilder.exe
+        shell: powershell
+
+      - name: Upload release asset
+        uses: softprops/action-gh-release@v2
+        with:
+          files: "Hitman_Ukr.zip"
+          tag_name: "master"  # Можна використовувати будь-який тег, якщо потрібно
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
