@@ -1,7 +1,7 @@
 # Українізатор для Hitman: Blood Money
 Hitman: Blood Money Ukr. v.0.4
 
-![example workflow](https://github.com/romamakar/Hitman_Ukr/actions/workflows/dotnet-desktop.yml/badge.svg)
+![example workflow](https://github.com/romamakar/Hitman_Ukr/actions/workflows/dotnet-desktop.yml/badge.svg?branch=master)
 
 Це текстовий українізатор для гри Hitman: Blood Money
 
