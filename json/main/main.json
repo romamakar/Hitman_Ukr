@@ -6548,7 +6548,7 @@
             {
               "name": "InvertVertical",
               "org_tbyte": 9,
-              "value": "РОЗгорнути по вертикалi",
+              "value": "Розгорнути по вертикалi",
               "numChildren": 0,
               "type": "data"
             },
@@ -6842,7 +6842,7 @@
             {
               "name": "SpeechVolume",
               "org_tbyte": 9,
-              "value": "ГУЧНIСТЬ МОВI",
+              "value": "ГУЧНIСТЬ РОЗМОВ",
               "numChildren": 0,
               "type": "data"
             },
