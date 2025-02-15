@@ -149,7 +149,7 @@
 		]
 		"Interface" [
 			"AccountBalance" = "БАЛАНС РАХУНКУ:"
-			"AcquireNewIdentity" = "ЗДОБУТИ НОВОЪ IДЕНТИЧНОСТI"
+			"AcquireNewIdentity" = "ЗДОБУТИ НОВОЁ IДЕНТИЧНОСТI"
 			"AddNewFriend" = "ДОДАТИ НОВОГО ДРУГА {ZW_SELECT4}"
 			"Age" = "вiк:"
 			"AllMustHaveCharacters" = "~"
@@ -203,11 +203,11 @@
 ПРАКТИЧНI ЦIЛI ВАС
 ПРОСТО ПЕРЕСТАНЕ IСНУВАТИ.
 
-НАБУТТЯ НОВОЪ IДЕНТИЧНОСТI
+НАБУТТЯ НОВОЁ IДЕНТИЧНОСТI
 ВIДНОВИТЬ ВАШУ ЗЛОВIСТЬ
 РЕЙТИНГ (ДО 100 БАЛIВ)."
 				"txtBribeIdentityTitle" = "НОВА IДЕНТИЧНIСТЬ:"
-				"txtBribePoliceText" = "МIСЦЕВИЙ НАЧАЛЬНИК ПОЛIЦIЪ
+				"txtBribePoliceText" = "МIСЦЕВИЙ НАЧАЛЬНИК ПОЛIЦIЁ
 ЗАБЕЗПЕЧИТЬ ЦЕ 
 ВИВIТУВАЛЬНI ДОКАЗИ 
 ВИПАДКОВО
@@ -215,7 +215,7 @@
 РОЗСЛIДУВАННЯ
 ЗАДУШИТЬСЯ
 З БЯРОКРАТИКОЮ.  
-ХАБАР ПОЛIЦIЪ ЗМЕНШУЭ ВАШУ
+ХАБАР ПОЛIЦIЁ ЗМЕНШУЭ ВАШУ
 ЗНАЧНА вiдомiсть
 (40 БАЛIВ)."
 				"txtBribePoliceTitle" = "ПОЛIЦIЯ З ХАБАРЯ:"
@@ -223,7 +223,7 @@
 			]
 			"AvailableFunds" = "ДОСТУПНI КОШТИ: %i"
 			"BackSpace" = "ЗАДНИЙ ПРОСТОР"
-			"BribeChiefOfPolice" = "ХАБАР НАЧАЛЬНИК МIЛIЦIЪ"
+			"BribeChiefOfPolice" = "ХАБАР НАЧАЛЬНИК МIЛIЦIЁ"
 			"BribeCivi" = "ПIДКУПУВАТИ ЦИВIЛЬНИХ"
 			"BribeMenus" [
 				"AquireNewId" = "Отримайте нову iдентичнiсть"
@@ -284,7 +284,7 @@
 				"UpgradeBuy" = "{ZW_SELECT} КУПИТИ"
 				"UpgradeEquip" = "{ZW_SELECT} ОСОБЛЯННЯ"
 				"UpgradeUnequip" = "{ZW_SELECT} НЕ ОБОРЯЖЕННЯ"
-				"WeaponSelection" = "ВИБIР ЗБРОЪ {початок}"
+				"WeaponSelection" = "ВИБIР ЗБРОЁ {початок}"
 				"Yes" = "ТАК"
 			]
 			"BuyIntel" = "КУПИТИ INTEL"
@@ -747,7 +747,7 @@ Laëtitia Wajnapel"
 				"Info13" = "Пiд час виконання мiсiъ час вiд часу пiд компасом у верхнiй частинi екрана з’являэться знак оклику. Це означаэ, що до брифiнгу вашоъ мiсiъ додано нову вiдповiдну iнформацiю. Прочитайте його, оскiльки вiн дасть вам пiдказки щодо важливих подiй мiсiъ." 523712 523712
 				"Info13Header" = "ЗНАК ОКЛИКУ"
 				"Info14" = "У будь-який момент гри ви можете отримати доступ до брифiнгу мiсiъ, натиснувши кнопку брифiнгу мiсiъ. Тут ви можете вiдтворити брифiнг, прочитати iнформацiю, яка мала мiсце пiд час мiсiъ, i прочитати додатковi розвiдданi." 523920 523920
-				"Info14Header" = "БРИФIНГ МIСIЪ"
+				"Info14Header" = "БРИФIНГ МIСIЁ"
 			]
 			"Details" = "ДЕТАЛI"
 			"Dialog" [
@@ -863,7 +863,7 @@ Laëtitia Wajnapel"
 				"friendDeclineGameInvitation" = "ВIДХИЛИТИ ЗАПРОШЕННЯ В ГРУ"
 				"friendDeclineRequest" = "ВIДХИЛИТИ ЗАПИТ ДО ДРУГУ"
 				"friendDownloading" = "ЗАВАНТАЖУВАННЯ"
-				"friendJoinSession" = "ПРИЭДНУЙТЕСЯ ДО СЕСIЪ"
+				"friendJoinSession" = "ПРИЭДНУЙТЕСЯ ДО СЕСIЁ"
 				"friendMessageFrom" = "ПОВIДОМЛЕННЯ ВIД:"
 				"friendMessageRemove" = "Ви впевненi, що хочете видалити це повiдомлення?"
 				"friendMessageTo" = "ПОВIДОМЛЕННЯ КОМУ:"
@@ -932,7 +932,7 @@ Laëtitia Wajnapel"
 				"MemoryCardCheckMenu" = "ПЕРЕВIРКА КАРТКИ ПАМ'ЯТI"
 				"MissionFailedMenu" = "МIСIЯ ПРОВАЛИСЯ"
 				"NewProfileMenu" = "НОВИЙ ПРОФIЛЬ"
-				"OptionMenu" = "ОПЦIЪ"
+				"OptionMenu" = "ОПЦIЁ"
 				"PressStartMenu" = "НАТИСНIТЬ СТАРТ"
 				"ProfileManager" = "МЕНЕДЖЕР ПРОФIЛЮ"
 				"QuitGameConfirmationDialog" = "ПIДТВЕРДЖЕННЯ ВИХОДУ З ГРИ"
@@ -963,7 +963,7 @@ Laëtitia Wajnapel"
 або натиснiть {ZW_CANCEL}, щоб скасувати"
 				"txtRemoveFriend" = "Ви хочете видалити %s?
 зi списку друзiв?"
-				"WeaponSelectMenu" = "ВИБIР ЗБРОЪ"
+				"WeaponSelectMenu" = "ВИБIР ЗБРОЁ"
 				"Xenon" [
 					"CreateNewProfileMenu" = "СТВОРЮЙ КАР'ЭРУ"
 					"DeleteProfileMenu" = "ВИДАЛИТИ КАР'ЭРУ"
@@ -1026,7 +1026,7 @@ Laëtitia Wajnapel"
 				"ZW_UP" = "Меню вгору"
 			]
 			"Length" = "Довжина:"
-			"LevelCompletionTime" = "ЧАС ВИКОНАННЯ МIСIЪ"
+			"LevelCompletionTime" = "ЧАС ВИКОНАННЯ МIСIЁ"
 			"LevelNames" [
 				"Hideout" = "ХАЙОВКА"
 				"M00" = "СМЕРТЬ ШОУМЕНА"
@@ -1043,9 +1043,9 @@ Laëtitia Wajnapel"
 				"M12" = "ПОПРАВКА XXV"
 				"M13" = "РЕКВIЭМ"
 			]
-			"LevelPerformanceHeader" = "ВИКОНАННЯ МIСIЪ"
+			"LevelPerformanceHeader" = "ВИКОНАННЯ МIСIЁ"
 			"LevelPerformanceSubHeader" = "РЕЙТИНГ ЗНАЧНОСТI"
-			"LevelRating" = "РЕЙТИНГ МIСIЪ"
+			"LevelRating" = "РЕЙТИНГ МIСIЁ"
 			"LevelStatContinue" = "ПРОДОВЖИТИ {ZW_SELECT}"
 			"LevelStats" [
 				"LS_AccuracyShots" = "ТОЧНIСТЬ ПОТРIЛIВ"
@@ -1066,13 +1066,13 @@ Laëtitia Wajnapel"
 				"LS_RankTitle" = "ЗВАННЯ"
 				"LS_TimeUsed" = "ВИКОРИСТАНИЙ ЧАС"
 			]
-			"LevelStatSubHeader" = "СТАТИСТИКА МIСIЪ"
+			"LevelStatSubHeader" = "СТАТИСТИКА МIСIЁ"
 			"Load" = "НАВАНТАЖЕННЯ"
 			"Location" = "МIСЦЕ"
 			"LoginAs" = "Увiйти як:"
 			"ManageFriendsFor" = "КЕРУВАННЯ ДРУЗЯМИ ДЛЯ:"
 			"mbd" [
-				"missionCustomWeapons" = "ПОВЕРНЕННЯ ЗБРОЪ НА ЗАКАЗ"
+				"missionCustomWeapons" = "ПОВЕРНЕННЯ ЗБРОЁ НА ЗАКАЗ"
 				"missionDamageControl" = "КОНТРОЛЬ ПОШКОДЖЕННЯ"
 				"missionObjectives" = "ЦIЛI"
 				"missionSuitRetrival" = "ПОВЕРНЕННЯ КОСТЮМА"
@@ -1137,7 +1137,7 @@ Laëtitia Wajnapel"
 			]
 			"MiscEquipment" = "РIЗНЕ ОБЛАДНАННЯ"
 			"Mission" [
-				"txtAccidentKills" = "АВАРIЪ"
+				"txtAccidentKills" = "АВАРIЁ"
 				"txtBodiesFound" = "ЗНАЙДЕНО ТIЛА"
 				"txtCameraCaught" = "ЗНIМАНО НА КАМЕРИ"
 				"txtCombatKills" = "БЛИЖНIЙ БIЙ ВБИВАЭ"
@@ -1148,15 +1148,15 @@ Laëtitia Wajnapel"
 				"txtTotalKills" = "ТОТАЛЬНI ВБИВСТВА"
 				"txtWitnesses" = "СВIДКИ"
 			]
-			"MissionBreakdownDetails" = "ДЕТАЛI РОЗБIКУ МIСIЪ"
-			"MissionBriefing" = "БРИФIНГ МIСIЪ"
+			"MissionBreakdownDetails" = "ДЕТАЛI РОЗБIКУ МIСIЁ"
+			"MissionBriefing" = "БРИФIНГ МIСIЁ"
 			"MissionFailed" [
 				"HitmanDied" = "Агент 47 помер."
 				"m04_agentdied" = "Не вдалося захистити агента ЦРУ."
 				"m05_microfilmlost" = "Не вдалося отримати мiкрофiльм."
 				"m06_politiciandied" = "Не вдалося захистити мiнiстра внутрiшнiх справ."
 			]
-			"MissionSelect" = "ВИБIР МIСIЪ"
+			"MissionSelect" = "ВИБIР МIСIЁ"
 			"MoneyEarned" = "ЗАРОБЛЕНI ГРОШI"
 			"Mouse" [
 				"mb1" = "Лiва кнопка мишi"
@@ -1233,7 +1233,7 @@ Laëtitia Wajnapel"
 				"Connected" = "Пiдключено"
 				"Connecting" = "Пiдключення..."
 				"Continue" = "ПРОДОВЖУЙТЕ"
-				"Country" = "КРАЪНА"
+				"Country" = "КРАЁНА"
 				"CountryNames" = "6 Аргентина
 8 Австралiя
 9 Австрiя
@@ -1306,14 +1306,14 @@ Laëtitia Wajnapel"
 				"DetailHeadshots" = "КIЛЬКIСТЬ ПОТРIЛIВ В ГОЛОВУ"
 				"DetailInnocentsKilled" = "КIЛЬКIСТЬ НЕВИННИХ ВБИТИХ"
 				"DetailOutfitChanges" = "КIЛЬКIСТЬ ВИКОРИСТАНИХ МАСКУВАНЬ"
-				"DetailPoliceKilled" = "КIЛЬКIСТЬ ЗАГИБЛИХ ОФIЦЕРIВ ПОЛIЦIЪ"
+				"DetailPoliceKilled" = "КIЛЬКIСТЬ ЗАГИБЛИХ ОФIЦЕРIВ ПОЛIЦIЁ"
 				"Details" = "ДЕТАЛI {ZW_SELECT}"
 				"DetailSaves" = "КIЛЬКIСТЬ ЗБЕРЕЖЕНЬ"
 				"DetailShots" = "КIЛЬКIСТЬ ПОСТРIЛIВ"
 				"DetailShotsHit" = "КIЛЬКIСТЬ УДАРЕНЬ"
 				"DetailTime" = "ЧАС ЗАВЕРШИТИ"
 				"DetailTotalKills" = "# ВБИВ"
-				"Email" = "АДРЕСА ЕЛЕКТРОННОЪ ПОШТИ"
+				"Email" = "АДРЕСА ЕЛЕКТРОННОЁ ПОШТИ"
 				"EOTSBanReason0" = "Образливе прiзвисько"
 				"EOTSBanReason1" = "лайка"
 				"EOTSBanReason2" = "Обман"
@@ -2514,7 +2514,7 @@ Iснуючий облiковий запис Eidos Online Login
 				"OnlineInProgress" = "ТРИВАЭ ОНЛАЙН-ОПЕРАЦIЯ"
 				"OnlineLoggedIn" = "УВIЙШЛИ:"
 				"OnlineNotLoggedIn" = "НЕ УВIЙШИВ"
-				"OnlineOptions" = "ОПЦIЪ"
+				"OnlineOptions" = "ОПЦIЁ"
 				"OnlineScore" = "ОЦIНКА"
 				"OnlineSwitch" = "СФЕРА ЗАСТОСУВАННЯ"
 				"OnlineWriteFriend" = "ВВЕДIТЬ IМ'Я ДРУГА, ЩОБ ДОДАТИ"
@@ -2603,7 +2603,7 @@ Iснуючий облiковий запис Eidos Online Login
 			"Options" [
 				"AdjustScreen" = "РЕГУЛЮВАННЯ ЕКРАНУ"
 				"AdjustScreenHelpText" = "РЕГУЛЮЙТЕ ПОЗИЦIЮ ЕКРАНА"
-				"AmbienceVolume" = "ОБ'ЭМ АТМОСФIЪ"
+				"AmbienceVolume" = "ОБ'ЭМ АТМОСФIЁ"
 				"Autoaim" = "АВТОЦIЛЬ"
 				"AutoCrouchWhenTighteningFiberWire" = "СПРОСТИТИ ДУШИТИ"
 				"Brightness" = "ЯСКРАВIСТЬ"
@@ -2620,7 +2620,7 @@ Iснуючий облiковий запис Eidos Online Login
 				"MovieVolume" = "ГУЧНIСТЬ ФIЛЬМУ"
 				"MusicVolume" = "ГУЧНIСТЬ МУЗИКИ"
 				"No" = "НI"
-				"Options" = "ОПЦIЪ"
+				"Options" = "ОПЦIЁ"
 				"PC" [
 					"AllCharacters" = "УСI ПЕРСОНАЖI"
 					"AnisotropyFiltering" = "АНIЗОТРОПНА ФIЛЬТРАЦIЯ"
@@ -2635,12 +2635,12 @@ Iснуючий облiковий запис Eidos Online Login
 					"Hero" = "ГЕРОЙ"
 					"High" = "ВИСОКА"
 					"HighPostFilters" = "ВИСОКИЙ (ГЛИБИНА РОЗМИТТЯ УВIМКНЕНО)"
-					"LevelOfDetail" = "РIВЕНЬ ДЕТАЛIЗАЦIЪ"
+					"LevelOfDetail" = "РIВЕНЬ ДЕТАЛIЗАЦIЁ"
 					"Low" = "НИЗЬКИЙ"
 					"Max" = "МАКС"
 					"Medium" = "СЕРЕДНIЙ"
 					"None" = "ЖОДНОГО"
-					"PostFilters" = "РIВЕНЬ ДЕТАЛIЗАЦIЪ ПОСТ-ФIЛЬТРОВ"
+					"PostFilters" = "РIВЕНЬ ДЕТАЛIЗАЦIЁ ПОСТ-ФIЛЬТРОВ"
 					"ResetToDefault" = "СКИНУТИ ДО ЗАМОВЧУВАННЯ"
 					"ScreenResolution" = "РОЗДIЛЬНА ДIЯЛЬНIСТЬ ЕКРАНУ"
 					"SelfShadowing" = "САМОСТIНЕННЯ"
@@ -2661,7 +2661,7 @@ Iснуючий облiковий запис Eidos Online Login
 				"SwitchStick" = "ПЕРЕКЛЮЧАТЕЛЬ"
 				"TurnSpeed" = "ШВИДКIСТЬ ПОВОРУ"
 				"UltraHigh" = "УЛЬТРА ВИСОКА"
-				"Vibration" = "ФУНКЦIЯ ВIБРАЦIЪ"
+				"Vibration" = "ФУНКЦIЯ ВIБРАЦIЁ"
 				"Yes" = "ТАК"
 			]
 			"Pal60Message" = "Якщо ви бачите це кольорове зображення, значить, ваш телевiзор пiдтримуэ PAL60."
@@ -2678,7 +2678,7 @@ Iснуючий облiковий запис Eidos Online Login
 			"QuitGame" = "ВИЙТИ"
 			"RatingBonus" = "РЕЙТИНГ БОНУС"
 			"RecordMessage" = "ЗАПИСАТИ ГОЛОСОВЕ ПОВIДОМЛЕННЯ"
-			"Replay" = "ПОВТОРИТИ БРИФIНГ МIСIЪ"
+			"Replay" = "ПОВТОРИТИ БРИФIНГ МIСIЁ"
 			"Retrieve" = "ВIДНОВИТИ"
 			"Retry" = "Повторiть спробу"
 			"SaveGameUsed" = "ЗБЕРЕГТИ ВИКОРИСТАНI IГРИ %i / %i"
@@ -2754,7 +2754,7 @@ Iснуючий облiковий запис Eidos Online Login
 			"TitleSendFriendsRequest" = "НАДIСЛАТИ ЗАПИТ В ДРУГИ"
 			"TitleUpdateAvailable" = "ДОСТУПНЕ ОНОВЛЕННЯ"
 			"TotalAccountBalance" = "ЗАГАЛЬНИЙ БАЛАНС РАХУНКУ"
-			"TotalMissionEarnigs" = "ЗАГАЛЬНИЙ ПРИБУТОК МIСIЪ"
+			"TotalMissionEarnigs" = "ЗАГАЛЬНИЙ ПРИБУТОК МIСIЁ"
 			"TotalUpgradePrice" = "ЗАГАЛЬНА ЦIНА: %s $"
 			"Training" = "НАВЧАННЯ"
 			"TwoHanded" = "Дворучний:"
@@ -3464,8 +3464,8 @@ Iснуючий облiковий запис Eidos Online Login
 				"Details" [
 				]
 				"Length" = "312 мм."
-				"Longname" = "СПРАВЖНIЙ ПIСТОЛЕТ ПЕРВОЪ ВIЙОВОЪ ВIЙОВI"
-				"Shortname" = "СПРАВЖНIЙ ПIСТОЛЕТ ПЕРВОЪ ВIЙОВОЪ ВIЙОВI"
+				"Longname" = "СПРАВЖНIЙ ПIСТОЛЕТ ПЕРВОЁ ВIЙОВОЁ ВIЙОВI"
+				"Shortname" = "СПРАВЖНIЙ ПIСТОЛЕТ ПЕРВОЁ ВIЙОВОЁ ВIЙОВI"
 				"Type" = "НАПIВАВТОМАТИЧНИЙ ПIСТОЛЕТ"
 				"Weight" = "1250 г."
 			]
@@ -3484,8 +3484,8 @@ Iснуючий облiковий запис Eidos Online Login
 				"Details" [
 				]
 				"Length" = "312 мм."
-				"Longname" = "РЕКВIЗIЙНИЙ ПIСТОЛЕТ ВЕРХОВНОЪ ВIЙОВОЪ ВIЙНИ"
-				"Shortname" = "РЕКВIЗIЙНИЙ ПIСТОЛЕТ ВЕРХОВНОЪ ВIЙОВОЪ ВIЙНИ"
+				"Longname" = "РЕКВIЗIЙНИЙ ПIСТОЛЕТ ВЕРХОВНОЁ ВIЙОВОЁ ВIЙНИ"
+				"Shortname" = "РЕКВIЗIЙНИЙ ПIСТОЛЕТ ВЕРХОВНОЁ ВIЙОВОЁ ВIЙНИ"
 				"Type" = "ПРОПIСТОЛЬ"
 				"Weight" = "1250 г."
 			]
@@ -3496,7 +3496,7 @@ Iснуючий облiковий запис Eidos Online Login
 				"Length" = "230 мм."
 				"Longname" = "ШIСТЬ СТРIЛЬЦIВ"
 				"Shortname" = "ШIСТЬ СТРIЛЬЦIВ"
-				"Type" = "РЕВОЛЬВЕР ОДИНОЧНОЪ ДIЪ"
+				"Type" = "РЕВОЛЬВЕР ОДИНОЧНОЁ ДIЁ"
 				"Weight" = "1200 г."
 			]
 			"Gun_SnubNosed_01" [
@@ -3506,7 +3506,7 @@ Iснуючий облiковий запис Eidos Online Login
 				"Length" = "175 мм."
 				"Longname" = "КРИПСИЙ"
 				"Shortname" = "КРИПСИЙ"
-				"Type" = "РЕВОЛЬВЕР ПОДВIЙНОЪ ДIЪ"
+				"Type" = "РЕВОЛЬВЕР ПОДВIЙНОЁ ДIЁ"
 				"Weight" = "700 г."
 			]
 			"Gun_Taurus_01" [
@@ -3514,7 +3514,7 @@ Iснуючий облiковий запис Eidos Online Login
 				"Length" = "356 мм."
 				"Longname" = "БИК.480"
 				"Shortname" = "БИК.480"
-				"Type" = "РЕВОЛЬВЕР ПОДВIЙНОЪ ДIЪ"
+				"Type" = "РЕВОЛЬВЕР ПОДВIЙНОЁ ДIЁ"
 				"Weight" = "1959 р."
 			]
 			"Item_AdmissionPaper_01" [
@@ -6248,7 +6248,7 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 					"Info2" = "{bullet_square} ВИКЛЮЧАЭТЬСЯ БОЛТ"
 					"Info3"
 					"Info4"
-					"Name" = "ЗАЖИМ ПОДВIЙНОЪ ЭМНОСТI"
+					"Name" = "ЗАЖИМ ПОДВIЙНОЁ ЭМНОСТI"
 				]
 				"Lightweight" [
 					"Info1" = "{bullet_square} ЛЕГКI ДЕТАЛI"
@@ -6409,7 +6409,7 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 					"Name" = "КРАТТ ШУЛЬЦ ОТМIЧКА"
 				]
 				"EnhancedBombRemote" [
-					"Info1" = "{bullet_square} ДЕТОНАТОР ДАЛЬНЬОЪ ДIЪ"
+					"Info1" = "{bullet_square} ДЕТОНАТОР ДАЛЬНЬОЁ ДIЁ"
 					"Info2"
 					"Info3"
 					"Info4"
@@ -6438,7 +6438,7 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 				]
 				"FoilPaddedSafeSuitcase" [
 					"Info1" = "{bullet_square} НЕ ВИЯВЛЯЭТЬСЯ"
-					"Info2" = "{bullet_square} ДЛЯ КАСТИТУЛЬНОЪ СНАЙПЕРСЬКОЪ ГРУБТИЦI"
+					"Info2" = "{bullet_square} ДЛЯ КАСТИТУЛЬНОЁ СНАЙПЕРСЬКОЁ ГРУБТИЦI"
 					"Info3"
 					"Info4"
 					"Name" = "ВАлiза з фольгою"
@@ -7411,13 +7411,13 @@ people, and police are now looking for him. He´s a bald guy!\""
 			"39_HideUnderBed" = "НЕ В ВИКОРИСТАННI!!!!!!!!!!!!!!!
 
 Натиснiть X бiля лiжка, щоб сховатися пiд ним, i знову X, щоб вибратися."
-			"40_PoisonBeverage_PC" = "Отруэння Ъжа та напоъ 
+			"40_PoisonBeverage_PC" = "Отруэння Ёжа та напоъ 
 Щоб отруъти ъжу чи напоъ, виберiть шприц в iнвентарi, наведiть на напiй i натиснiть кнопку вогню, коли перехрестя стане червоним." 801920 801920
-			"40_PoisonBeverage_PS2" = "Отруэння Ъжа та напоъ 
+			"40_PoisonBeverage_PS2" = "Отруэння Ёжа та напоъ 
 Щоб отруъти ъжу чи напоъ, виберiть шприц в iнвентарi, наведiть на напiй i натиснiть кнопку R1, коли перехрестя стане червоним." 802176 802176
-			"40_PoisonBeverage_XBOX" = "Отруэння Ъжа та напоъ 
+			"40_PoisonBeverage_XBOX" = "Отруэння Ёжа та напоъ 
 Щоб отруъти ъжу чи напоъ, виберiть шприц в iнвентарi, нацiлiться на напiй i натиснiть правий курок, коли перехрестя стане червоним." 802432 802432
-			"40_PoisonBeverage_XENON" = "Отруэння Ъжа та напоъ 
+			"40_PoisonBeverage_XENON" = "Отруэння Ёжа та напоъ 
 Щоб отруъти ъжу чи напоъ, виберiть шприц в iнвентарi, нацiлiться на напiй i натиснiть правий курок, коли перехрестя стане червоним." 0
 			"41_SpecialAction" = "НЕ ВИКОРИСТОВУЭТЬСЯ!!!!!!!!!!!!!!
 
@@ -7853,7 +7853,7 @@ people, and police are now looking for him. He´s a bald guy!\""
 			"39_HideUnderBed" = "НЕ В ВИКОРИСТАННI!!!!!!!!!!!!!!!
 
 Натиснiть X бiля лiжка, щоб сховатися пiд ним, i знову X, щоб вибратися."
-			"40_PoisonBeverage" = "Отруэння Ъжа та напоъ
+			"40_PoisonBeverage" = "Отруэння Ёжа та напоъ
 Щоб отруъти ъжу чи напоъ, виберiть шприц в iнвентарi, наведiть на напiй i натиснiть кнопку вогню, коли перехрестя стане червоним." 0
 			"41_SpecialAction" = "НЕ ВИКОРИСТОВУЭТЬСЯ!!!!!!!!!!!!!!
 

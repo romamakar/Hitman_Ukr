@@ -1,5 +1,5 @@
 # Українізатор для Hitman: Blood Money
-Hitman: Blood Money Ukr. v.0.1-alpha
+Hitman: Blood Money Ukr. v.0.4
 
 Це текстовий українізатор для гри Hitman: Blood Money
 
@@ -8,7 +8,6 @@ Hitman: Blood Money Ukr. v.0.1-alpha
 Для встановлення скачайте файл Hitman_Ukr.zip з https://github.com/romamakar/Hitman_Ukr/releases/download/zip/Hitman_Ukr.zip та розпакуйте в папку з грою.
 
 Відомі помилки:
-- літери 'ї' та 'є' не відображаються лише у газетах
 - деякі стрічки не відображаються, або замість них відображаються ключові слова
 - переклад неідеальний так як я використав Google Translate для швидшого створення українізатора
 

@@ -583,7 +583,7 @@
             {
               "name": "M05_Caterer",
               "org_tbyte": 9,
-              "value": "постачальника провiзiъ",
+              "value": "постачальника провiзiё",
               "numChildren": 0,
               "type": "data"
             },
@@ -800,7 +800,7 @@
             {
               "name": "M12_BodyGuardSecretService",
               "org_tbyte": 9,
-              "value": "агента секретноъ служби",
+              "value": "агента секретноё служби",
               "numChildren": 0,
               "type": "data"
             },
@@ -863,7 +863,7 @@
             {
               "name": "M13_SecretService",
               "org_tbyte": 9,
-              "value": "агента секретноъ служби",
+              "value": "агента секретноё служби",
               "numChildren": 0,
               "type": "data"
             },
@@ -1328,14 +1328,14 @@
                 {
                   "name": "txtBribePoliceText",
                   "org_tbyte": 9,
-                  "value": "НАЧАЛЬНИК МIСЦЕВОЪ ПОЛIЦIЪ\nПОДБАЭТЬСЯ, ЩОБ ВСЕ \nДОЛИКИ ВИПАДКОВО ЗНИКЛИ.\nРОЗСЛIДЖЕННЯ ЗАЙДЕ\nУ ТУПIК.\nПIДКУП ПОЛIЦIЪ IСТОТНО\nЗНИЖУЭ ВАШУ Впiзнаванiсть\n(40 ПУНКТIВ)",
+                  "value": "НАЧАЛЬНИК МIСЦЕВОЁ ПОЛIЦIЁ\nПОДБАЭТЬСЯ, ЩОБ ВСЕ \nДОЛИКИ ВИПАДКОВО ЗНИКЛИ.\nРОЗСЛIДЖЕННЯ ЗАЙДЕ\nУ ТУПIК.\nПIДКУП ПОЛIЦIЁ IСТОТНО\nЗНИЖУЭ ВАШУ Впiзнаванiсть\n(40 ПУНКТIВ)",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "txtBribePoliceTitle",
                   "org_tbyte": 9,
-                  "value": "ПIДКУП ПОЛIЦIЪ:",
+                  "value": "ПIДКУП ПОЛIЦIЁ:",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -1412,7 +1412,7 @@
                 {
                   "name": "BribePoliceBox",
                   "org_tbyte": 9,
-                  "value": "НАЧАЛЬНИК МIСЦЕВОЪ ПОЛIЦIЪ ПРОПIКЛУЭТЬСЯ ПРО ТЕ, ЩОБ ВСI ДОКАЗИ ВИПАДКОВО ЗНИКЛИ. РОЗСЛIДУВАННЯ ЗАЙДЕ В ТУПИК. ПIДКУП ПОЛIЦIЪ IСТОТНО ЗНИЖУЭ ВАШУ Впiзнаванiсть (40 ПУНКТIВ).",
+                  "value": "НАЧАЛЬНИК МIСЦЕВОЁ ПОЛIЦIЁ ПРОПIКЛУЭТЬСЯ ПРО ТЕ, ЩОБ ВСI ДОКАЗИ ВИПАДКОВО ЗНИКЛИ. РОЗСЛIДУВАННЯ ЗАЙДЕ В ТУПИК. ПIДКУП ПОЛIЦIЁ IСТОТНО ЗНИЖУЭ ВАШУ Впiзнаванiсть (40 ПУНКТIВ).",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -1755,7 +1755,7 @@
                 {
                   "name": "WeaponSelection",
                   "org_tbyte": 9,
-                  "value": "ВИБIР ЗБРОЪ {start}",
+                  "value": "ВИБIР ЗБРОЁ {start}",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -1871,14 +1871,14 @@
             {
               "name": "CreditsText",
               "org_tbyte": 9,
-              "value": "*У розробцi Hitman Blood Money брали участь\n* (За алфавiтом)\n*IO-Interactive\n\n*Директор проекту\nRasmus Højengaard\n\n*Технiчний продюсер\nMartin Amor\n\n*Головний художник\nTore Blystad\n\n*Головний дизайнер\nPeter Fleckenstein\n\n*Продюсер\nHelle Marijnissen\n\n*Програмiсти\nJens Bo Albretsen\nBrian Meidell Andersen\nMarcell Baranyai\nCarsten Brüggmann\nZoltán Buzáth \nBo Cordes\nNeil Coxhead \nTheo Engell-Nielsen \nChris Gilbert\nMartin Harring \nMorten Heiberg \nMichael Holm \nMorten Suldrup Larsen \nPeter Malnai \nPeter Wraae Marino \nSandor Nyako\nStein Nygård \nLars Piester \nMads Østerby Olesen \nRasmus Sigsgaard \nJens Skinnerup \nHakon Steinø\nJeroen Michiel Wagenaar\n\n*Художники\nJacob Andersen \nTobias Biehl \nMarek Bogdan \nSvend Christensen \nTimothy Evison \nPeter Fleckenstein\nThor Frølich\nAllan Hansen \nBo Heidelberg \nSøren B. Jensen\nSascha Jungnickel\nJesper Vorsholt Jørgensen \nRasmus Kjær \nSebastian \"Vlad\" Lindoff \nOskar Lundqvist\nStephan Nilsson \nBirgitte Bay Overgaard\nMads H. Peitersen \nAnders Pedersen \nJesper Kieler Petersen \nOleksandr Psenychnyy \nThomas Storm \nGyorgyi Szakmar\n\n*Дизайн персонажiв\nDavid Giraud\nTom Isaksen\n\n*Концепт-арт\nMorten Bramsen\nHenrik Hansen\n\n*Головний анiматор\nBarbara Bernád\n\n*Анiматори \nFrederik Budolph-Larsen \nJens Peter Kurup \nSøren Lumholtz \nFrederic Poirier\nMartin Poulsen\nThomas Peter Theede Neubert\n\n*Написання скриптiв АI\nJesper Donnis \nJonas Lind \nThomas Løfgren \nJacob Mikkelsen\n\n*Головний звукорежисер\nSimon Holm\n\n*Звукорежисери\nIvan Brandt \nThomas \"Tomzen\" Dietl\nMichael Ziegler\n\n*Програмування двигуна\nRune Brinckmeyer \nMicky Kelager Christensen \nKasper Engelstoft\nKároly Faragó \nDavid Guldbrandsen \nKarsten Hvidberg\nMichael Bach Jensen \nAsger Mangaard\nMircea Marghidanu\nAllan Merrild \nMorten Mikkelsen \nKasper Høy Nielsen \nMartin Pollas\nJon Rocatis\nHenning Semler \nGyula \"Luppy\" Szentirmay \nTorsten Kjær Sørensen \nAndreas Thomsen\n\n*Написання скрипту\nGreg Nagan\n\n*скрипти Max \nMikkel Hempel\nPetronela Cimpoesu\n\n*Додаткове програмування\nPeter Andreasen\nJesper Christiansen\nHenrik Edwards\nMartin Gram\nMartin Lütken\nMichael Juel Nielsen\n\n*Додаткова графiка\nMichael Bing\nAlan Cameron Boyle \nMiklos Büte \nJohan Flod \nMads Prahm\nMorten \"Mazy\" Hedegren \nMichael Heilemann\nBalàzs von Kiss \nPeter von Linstow \nRoberto Marchesi\nPeter Eide Paulsen \nRasmus Poulsen\n\n*Додаткова анiмацiя\nAnders Haldin\nGabor Horvath\nCraig Kristensen\nMartin Madsen\nDoron Meir \nSimon Sonnichsen\nKim Zoll\n\n*Додатковий звук\nPeter Wendelboe Hansen\n\n*Додаткове програмування двигуна\nThomas Jakobsen\nUlf Johansen\nSteffen Toksvig\n\n*Додатковi скрипти\nMorten Iversen\n\n*Музика\nКомпозитор Jesper Kyd (Score)\nВиконання Budapest Symphony Orchestra \nа також Hungarian Radio Choir (Score)\nАранжування Pierre Foldes\nOrchestra and Choir Conducted by Bela Drahos\nTomorrow Never Dies: Swan Lee\nSlasher\nМузика та текст: Bo Heidelberg & Kim G. Hansen\nВиконання: Institute for the Criminally Insane\nTomorrow Never Dies (Караоке-версiя)\nМузика: Rosendahl / Christensen\nТекст: Rosendahl / Rosendahl\nВиконання Swan Lee\nВиконання Караоке-версiъ: Barbara Bernád\nTomorrow Never Dies (оригiнальна версiя) \nМузика: Rosendahl / Christensen \nТекст: Rosendahl / Rosendahl \nВиконання Swan Lee \nВиконання оригiнальноъ версiъ: Pernille Rosendahl\n\n*Тестування\nJanus Rau\n\n*Керiвник вiддiлу тестування\nPetronela Cimpoesu\nHugh Grimley\nKlavs Kofod\nOliver Winding\n\n*Додаткове тестування\nNatasza Ashkanani\nChristian Egense Jørgensen\nMikkel Havmand\nFrederikke Hoff\nUffe Holm\nTatiana Midrigan Højengaard\nMarja Konttinen\nJakob Mygind\nThomas Møller\nKristian Rise\nJakob Rød\nUffe Svenstrup\n\n*Менеджмент\nJanos Flösser \nMorten Borum\n\n*Менеджмент вiддiлами\nMartin Amor\nJacob Andersen\nKarsten Hvidberg\nJens Peter Kurup\nKarsten Lund\nMartin Pollas\nMads Prahm\n\n*Пiдтримка\nMette Agerbæk \nElse Andersen\nMichael Andersen\nLine Bundgaard \nUlla Goldberg\nAnni Greve Andersen \nFredrik Ax \nJakob Bondesen \nCharlotte Delran\nChris Edgar \nPeter Fischer\nFrederik Fusager \nCæcilie Heising\nThomas Howalt \nTatiana Højengaard\nNiels Jørgensen\nSøren Reinhold Jensen \nChristoffer Kay \nJørgen Larsen\nTamir Lomholt \nUlf Maagaard \nFoad Mojib\nJonas Nielsen\nRune Petersen  \nGenevieve Ripeau\nNiels Ole Sørensen\nMartin Schröder \nChristine Thårup\nKjartan Vidarsson\n\n*Пiдбiр акторiв (US)\nKBA Voice Production\n\n*Озвучування персонажiв\nDavid Andriole\nDavid Bateson\nBarbara Bernád\nBrian Beacock\nJoan M. Bentsen\nMichael Benyer\nNicole Black\nScott Bullock\nBilly Cross\nChristopher Curry\nVinny Curto\nMark Deakins\nChristine Dunford\nWayne Duvall\nAlfred Fair\nCrispin Freeman\nJorge Garcia\nGrant George\nJessica Gee\nBob Glouberman\nFrancois Eric Grodin\nNemi Fadlahllah\nJean Claude Flamant\nThor Frølich\nHeather Halley\nDanielle Hartnett\nStew Herrera\nTish Hicks\nStephani Hodge\nTray Hooper\nRoger L. Jackson\nPeter Jessop\nBill Jurney\nBarry Gordon Mc. Kenna\nMark Klastorin\nCelestino Lancia\nNoah Lazarus\nMicheal Lindsay\nDeborah Marlowe\nJennifer Martin\nDon Mathews\nVivienne McKee\nJim Meskinen\nEnnis Morris\nBob Neches\nByrne Offutt\nJeremy C. Petreman\nCarlos Reig Plaza\nBilly Pope\nEarth Miller Bernard Reeves\nSam Riegel\nDaniel Riordan\nPaul Rugg\nSam Sako\nPete Scherer\nKaren Strassman\nMathew Stravitz\nMiles Stroth\nJim Thornton\nTrey Turner\nSal Viscuso\nWade Williams\nLaura J.K. Wrang\n\n*Студiя звукозапису (US)\nStudiopolis\n\n*Додатковий звук (DK)\nThomas Howalt\n\n*Додаткова студiя звукозапису (DK)\nRanum Studios, Copenhagen \n\n*Актори захоплення руху\nChristopher (Jack) Corcoran\nTina Robinson\nBo Thomas\nJamie Treacher\n\n*Вiолончель\nHelle Sørensen\n\n*Додаткова графiка\nMine Loader Software Co., Ltd.\n\nEidos\n\n*Виконавчий продюсер\nNeil Donnell\n\n*Помiчник продюсера\nAdam Lay\n\n*Керiвник служби тех. пiдтримки\nFlavia Timiani\n\n*Головний менеджер з локалiзацiъ\nMonica Dalla Valle \n\n*Менеджер з локалiзацiъ\nAlex Bush\n\n*QA-менеджер \nMarc Titheridge\n\n*Тестування функцiональностi\nJohn Ree\n\n*Головнi тестери\nDavid Haddon\nGermaine Mendes\nShams Wahid\n\n*Тестери\nSteve Addis\nLinus Dominique\nAllen Elliott\nSteve Inman\nCarl Perrin\nWilliam Wan\n\n*Тестування майстра\nJason Walker\n\n*Створення майстра\nRay Mullen \nMarc Webb\n\n*Тестування локалiзацiъ\nArnaud Messager \n\n*Координатор тестування локалiзацiъ\nPedro Geppert \n\n*Тестери локалiзацiъ\nLaure Diet \nPablo Trenado \nAugusto d'Apuzzo \nTobias Horch \nEdwige Béchet \nFrancisca Barcelo Avila \nLaëtitia Wajnapel",
+              "value": "*У розробцi Hitman Blood Money брали участь\n* (За алфавiтом)\n*IO-Interactive\n\n*Директор проекту\nRasmus Højengaard\n\n*Технiчний продюсер\nMartin Amor\n\n*Головний художник\nTore Blystad\n\n*Головний дизайнер\nPeter Fleckenstein\n\n*Продюсер\nHelle Marijnissen\n\n*Програмiсти\nJens Bo Albretsen\nBrian Meidell Andersen\nMarcell Baranyai\nCarsten Brüggmann\nZoltán Buzáth \nBo Cordes\nNeil Coxhead \nTheo Engell-Nielsen \nChris Gilbert\nMartin Harring \nMorten Heiberg \nMichael Holm \nMorten Suldrup Larsen \nPeter Malnai \nPeter Wraae Marino \nSandor Nyako\nStein Nygård \nLars Piester \nMads Østerby Olesen \nRasmus Sigsgaard \nJens Skinnerup \nHakon Steinø\nJeroen Michiel Wagenaar\n\n*Художники\nJacob Andersen \nTobias Biehl \nMarek Bogdan \nSvend Christensen \nTimothy Evison \nPeter Fleckenstein\nThor Frølich\nAllan Hansen \nBo Heidelberg \nSøren B. Jensen\nSascha Jungnickel\nJesper Vorsholt Jørgensen \nRasmus Kjær \nSebastian \"Vlad\" Lindoff \nOskar Lundqvist\nStephan Nilsson \nBirgitte Bay Overgaard\nMads H. Peitersen \nAnders Pedersen \nJesper Kieler Petersen \nOleksandr Psenychnyy \nThomas Storm \nGyorgyi Szakmar\n\n*Дизайн персонажiв\nDavid Giraud\nTom Isaksen\n\n*Концепт-арт\nMorten Bramsen\nHenrik Hansen\n\n*Головний анiматор\nBarbara Bernád\n\n*Анiматори \nFrederik Budolph-Larsen \nJens Peter Kurup \nSøren Lumholtz \nFrederic Poirier\nMartin Poulsen\nThomas Peter Theede Neubert\n\n*Написання скриптiв АI\nJesper Donnis \nJonas Lind \nThomas Løfgren \nJacob Mikkelsen\n\n*Головний звукорежисер\nSimon Holm\n\n*Звукорежисери\nIvan Brandt \nThomas \"Tomzen\" Dietl\nMichael Ziegler\n\n*Програмування двигуна\nRune Brinckmeyer \nMicky Kelager Christensen \nKasper Engelstoft\nKároly Faragó \nDavid Guldbrandsen \nKarsten Hvidberg\nMichael Bach Jensen \nAsger Mangaard\nMircea Marghidanu\nAllan Merrild \nMorten Mikkelsen \nKasper Høy Nielsen \nMartin Pollas\nJon Rocatis\nHenning Semler \nGyula \"Luppy\" Szentirmay \nTorsten Kjær Sørensen \nAndreas Thomsen\n\n*Написання скрипту\nGreg Nagan\n\n*скрипти Max \nMikkel Hempel\nPetronela Cimpoesu\n\n*Додаткове програмування\nPeter Andreasen\nJesper Christiansen\nHenrik Edwards\nMartin Gram\nMartin Lütken\nMichael Juel Nielsen\n\n*Додаткова графiка\nMichael Bing\nAlan Cameron Boyle \nMiklos Büte \nJohan Flod \nMads Prahm\nMorten \"Mazy\" Hedegren \nMichael Heilemann\nBalàzs von Kiss \nPeter von Linstow \nRoberto Marchesi\nPeter Eide Paulsen \nRasmus Poulsen\n\n*Додаткова анiмацiя\nAnders Haldin\nGabor Horvath\nCraig Kristensen\nMartin Madsen\nDoron Meir \nSimon Sonnichsen\nKim Zoll\n\n*Додатковий звук\nPeter Wendelboe Hansen\n\n*Додаткове програмування двигуна\nThomas Jakobsen\nUlf Johansen\nSteffen Toksvig\n\n*Додатковi скрипти\nMorten Iversen\n\n*Музика\nКомпозитор Jesper Kyd (Score)\nВиконання Budapest Symphony Orchestra \nа також Hungarian Radio Choir (Score)\nАранжування Pierre Foldes\nOrchestra and Choir Conducted by Bela Drahos\nTomorrow Never Dies: Swan Lee\nSlasher\nМузика та текст: Bo Heidelberg & Kim G. Hansen\nВиконання: Institute for the Criminally Insane\nTomorrow Never Dies (Караоке-версiя)\nМузика: Rosendahl / Christensen\nТекст: Rosendahl / Rosendahl\nВиконання Swan Lee\nВиконання Караоке-версiё: Barbara Bernád\nTomorrow Never Dies (оригiнальна версiя) \nМузика: Rosendahl / Christensen \nТекст: Rosendahl / Rosendahl \nВиконання Swan Lee \nВиконання оригiнальноё версiё: Pernille Rosendahl\n\n*Тестування\nJanus Rau\n\n*Керiвник вiддiлу тестування\nPetronela Cimpoesu\nHugh Grimley\nKlavs Kofod\nOliver Winding\n\n*Додаткове тестування\nNatasza Ashkanani\nChristian Egense Jørgensen\nMikkel Havmand\nFrederikke Hoff\nUffe Holm\nTatiana Midrigan Højengaard\nMarja Konttinen\nJakob Mygind\nThomas Møller\nKristian Rise\nJakob Rød\nUffe Svenstrup\n\n*Менеджмент\nJanos Flösser \nMorten Borum\n\n*Менеджмент вiддiлами\nMartin Amor\nJacob Andersen\nKarsten Hvidberg\nJens Peter Kurup\nKarsten Lund\nMartin Pollas\nMads Prahm\n\n*Пiдтримка\nMette Agerbæk \nElse Andersen\nMichael Andersen\nLine Bundgaard \nUlla Goldberg\nAnni Greve Andersen \nFredrik Ax \nJakob Bondesen \nCharlotte Delran\nChris Edgar \nPeter Fischer\nFrederik Fusager \nCæcilie Heising\nThomas Howalt \nTatiana Højengaard\nNiels Jørgensen\nSøren Reinhold Jensen \nChristoffer Kay \nJørgen Larsen\nTamir Lomholt \nUlf Maagaard \nFoad Mojib\nJonas Nielsen\nRune Petersen  \nGenevieve Ripeau\nNiels Ole Sørensen\nMartin Schröder \nChristine Thårup\nKjartan Vidarsson\n\n*Пiдбiр акторiв (US)\nKBA Voice Production\n\n*Озвучування персонажiв\nDavid Andriole\nDavid Bateson\nBarbara Bernád\nBrian Beacock\nJoan M. Bentsen\nMichael Benyer\nNicole Black\nScott Bullock\nBilly Cross\nChristopher Curry\nVinny Curto\nMark Deakins\nChristine Dunford\nWayne Duvall\nAlfred Fair\nCrispin Freeman\nJorge Garcia\nGrant George\nJessica Gee\nBob Glouberman\nFrancois Eric Grodin\nNemi Fadlahllah\nJean Claude Flamant\nThor Frølich\nHeather Halley\nDanielle Hartnett\nStew Herrera\nTish Hicks\nStephani Hodge\nTray Hooper\nRoger L. Jackson\nPeter Jessop\nBill Jurney\nBarry Gordon Mc. Kenna\nMark Klastorin\nCelestino Lancia\nNoah Lazarus\nMicheal Lindsay\nDeborah Marlowe\nJennifer Martin\nDon Mathews\nVivienne McKee\nJim Meskinen\nEnnis Morris\nBob Neches\nByrne Offutt\nJeremy C. Petreman\nCarlos Reig Plaza\nBilly Pope\nEarth Miller Bernard Reeves\nSam Riegel\nDaniel Riordan\nPaul Rugg\nSam Sako\nPete Scherer\nKaren Strassman\nMathew Stravitz\nMiles Stroth\nJim Thornton\nTrey Turner\nSal Viscuso\nWade Williams\nLaura J.K. Wrang\n\n*Студiя звукозапису (US)\nStudiopolis\n\n*Додатковий звук (DK)\nThomas Howalt\n\n*Додаткова студiя звукозапису (DK)\nRanum Studios, Copenhagen \n\n*Актори захоплення руху\nChristopher (Jack) Corcoran\nTina Robinson\nBo Thomas\nJamie Treacher\n\n*Вiолончель\nHelle Sørensen\n\n*Додаткова графiка\nMine Loader Software Co., Ltd.\n\nEidos\n\n*Виконавчий продюсер\nNeil Donnell\n\n*Помiчник продюсера\nAdam Lay\n\n*Керiвник служби тех. пiдтримки\nFlavia Timiani\n\n*Головний менеджер з локалiзацiё\nMonica Dalla Valle \n\n*Менеджер з локалiзацiё\nAlex Bush\n\n*QA-менеджер \nMarc Titheridge\n\n*Тестування функцiональностi\nJohn Ree\n\n*Головнi тестери\nDavid Haddon\nGermaine Mendes\nShams Wahid\n\n*Тестери\nSteve Addis\nLinus Dominique\nAllen Elliott\nSteve Inman\nCarl Perrin\nWilliam Wan\n\n*Тестування майстра\nJason Walker\n\n*Створення майстра\nRay Mullen \nMarc Webb\n\n*Тестування локалiзацiё\nArnaud Messager \n\n*Координатор тестування локалiзацiё\nPedro Geppert \n\n*Тестери локалiзацiё\nLaure Diet \nPablo Trenado \nAugusto d'Apuzzo \nTobias Horch \nEdwige Béchet \nFrancisca Barcelo Avila \nLaëtitia Wajnapel",
               "numChildren": 0,
               "type": "data"
             },
             {
               "name": "CustomWeapons",
               "org_tbyte": 9,
-              "value": "МОД. ЗБРОЪ",
+              "value": "МОД. ЗБРОЁ",
               "numChildren": 0,
               "type": "data"
             },
@@ -1919,7 +1919,7 @@
                     {
                       "name": "Hint2",
                       "org_tbyte": 9,
-                      "value": "У казино вищого класу дуже жорстка система безпеки. З цiэъ причини службовий персонал отримуэ ключ-картки лише для того поверху, на якому працюэ.",
+                      "value": "У казино вищого класу дуже жорстка система безпеки. З цiэё причини службовий персонал отримуэ ключ-картки лише для того поверху, на якому працюэ.",
                       "numChildren": 0,
                       "type": "data"
                     },
@@ -1933,7 +1933,7 @@
                     {
                       "name": "Hint4",
                       "org_tbyte": 9,
-                      "value": "У такому казино, як це завжди передбаченi заходи пожежноъ безпеки. На верхнiх поверхах завжди можна знайти доступнi панелi пожежноъ тривоги.",
+                      "value": "У такому казино, як це завжди передбаченi заходи пожежноё безпеки. На верхнiх поверхах завжди можна знайти доступнi панелi пожежноё тривоги.",
                       "numChildren": 0,
                       "type": "data"
                     },
@@ -2294,7 +2294,7 @@
                 {
                   "name": "NTSCWarning",
                   "org_tbyte": 9,
-                  "value": "Перемикання в режим NTSC може негативно вплинути на роботу вашоъ системи. У цьому випадку зачекайте 15 секунд, монiтор буде перемикатися у поточний режим.",
+                  "value": "Перемикання в режим NTSC може негативно вплинути на роботу вашоё системи. У цьому випадку зачекайте 15 секунд, монiтор буде перемикатися у поточний режим.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -2427,14 +2427,14 @@
                 {
                   "name": "SaveLimit_Expert",
                   "org_tbyte": 9,
-                  "value": "Досягнуто максимальноъ кiлькостi збережених iгор: %i в режимi експерта.",
+                  "value": "Досягнуто максимальноё кiлькостi збережених iгор: %i в режимi експерта.",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "SaveLimit_Normal",
                   "org_tbyte": 9,
-                  "value": "Досягнуто максимальноъ кiлькостi збережених iгор: %i у нормальному режимi.",
+                  "value": "Досягнуто максимальноё кiлькостi збережених iгор: %i у нормальному режимi.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -2707,7 +2707,7 @@
                 {
                   "name": "friendReviewFriendVoiceRequest",
                   "org_tbyte": 9,
-                  "value": "ВИДАЛИТИ ГОЛОСОВЕ ПОВIДОМЛЕННЯ З ПРОПОЗИЦIЪ",
+                  "value": "ВИДАЛИТИ ГОЛОСОВЕ ПОВIДОМЛЕННЯ З ПРОПОЗИЦIЁ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -3190,7 +3190,7 @@
                 {
                   "name": "WeaponSelectMenu",
                   "org_tbyte": 9,
-                  "value": "ВИБIР ЗБРОЪ",
+                  "value": "ВИБIР ЗБРОЁ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -3589,7 +3589,7 @@
                 {
                   "name": "ToggleCamera",
                   "org_tbyte": 9,
-                  "value": "Режим вiд 1-ъ/3-ъ особи",
+                  "value": "Режим вiд 1-ё/3-ё особи",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -3768,7 +3768,7 @@
             {
               "name": "LevelPerformanceHeader",
               "org_tbyte": 9,
-              "value": "РЕЗУЛЬТАТИ МIСIЪ",
+              "value": "РЕЗУЛЬТАТИ МIСIЁ",
               "numChildren": 0,
               "type": "data"
             },
@@ -3782,7 +3782,7 @@
             {
               "name": "LevelRating",
               "org_tbyte": 9,
-              "value": "РЕЙТИНГ МIСIЪ",
+              "value": "РЕЙТИНГ МIСIЁ",
               "numChildren": 0,
               "type": "data"
             },
@@ -3796,7 +3796,7 @@
             {
               "name": "LevelStatSubHeader",
               "org_tbyte": 9,
-              "value": "СТАТИСТИКА МIСIЪ",
+              "value": "СТАТИСТИКА МIСIЁ",
               "numChildren": 0,
               "type": "data"
             },
@@ -4433,7 +4433,7 @@
             {
               "name": "MissionBreakdownDetails",
               "org_tbyte": 9,
-              "value": "РОЗБIР МIСIЪ",
+              "value": "РОЗБIР МIСIЁ",
               "numChildren": 0,
               "type": "data"
             },
@@ -4482,7 +4482,7 @@
             {
               "name": "MissionSelect",
               "org_tbyte": 9,
-              "value": "ВИБIР МIСIЪ",
+              "value": "ВИБIР МIСIЁ",
               "numChildren": 0,
               "type": "data"
             },
@@ -4779,7 +4779,7 @@
                 {
                   "name": "AddVoiceToFriendRequest",
                   "org_tbyte": 9,
-                  "value": "Прикрiпити голосове повiдомлення до пропозицiъ дружби?",
+                  "value": "Прикрiпити голосове повiдомлення до пропозицiё дружби?",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -4919,7 +4919,7 @@
                 {
                   "name": "Country",
                   "org_tbyte": 9,
-                  "value": "КРАЪНА",
+                  "value": "КРАЁНА",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -5647,7 +5647,7 @@
                 {
                   "name": "Notice414b",
                   "org_tbyte": 9,
-                  "value": "Термiн дiъ: %s.",
+                  "value": "Термiн дiё: %s.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -5696,14 +5696,14 @@
                 {
                   "name": "Notice510",
                   "org_tbyte": 9,
-                  "value": "За вказаним при створеннi акаунту\nадресою електронноъ пошти надiслано\nлист.",
+                  "value": "За вказаним при створеннi акаунту\nадресою електронноё пошти надiслано\nлист.",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Notice601",
                   "org_tbyte": 9,
-                  "value": "Пароль, вказаний вами для пiдтвердження,\nне вiдповiдаэ паролю.\n\nБудь ласка, перевiрте регiстр.\n\nПеревiрте правильнiсть введеноъ iнформацiъ.",
+                  "value": "Пароль, вказаний вами для пiдтвердження,\nне вiдповiдаэ паролю.\n\nБудь ласка, перевiрте регiстр.\n\nПеревiрте правильнiсть введеноё iнформацiё.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -5717,21 +5717,21 @@
                 {
                   "name": "Notice603",
                   "org_tbyte": 9,
-                  "value": "Вказана адреса електронноъ пошти не iснуэ.\nПеревiрте правильнiсть введеноъ iнформацiъ.",
+                  "value": "Вказана адреса електронноё пошти не iснуэ.\nПеревiрте правильнiсть введеноё iнформацiё.",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Notice604",
                   "org_tbyte": 9,
-                  "value": "У вашому мережевому iменi маэ бути вiд 4 до\n15 символiв, не повинно бути образ,\nа також пробiлiв та спецiальних символiв.\nПеревiрте правильнiсть введеноъ iнформацiъ.",
+                  "value": "У вашому мережевому iменi маэ бути вiд 4 до\n15 символiв, не повинно бути образ,\nа також пробiлiв та спецiальних символiв.\nПеревiрте правильнiсть введеноё iнформацiё.",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Notice611",
                   "org_tbyte": 9,
-                  "value": "Ми змушенi повiдомити вас про те, що\nреэстрацiя не передбачена для вашоъ\nвiковоъ групи. Дивiться лiцензiйне \nУгода Eidos Online.",
+                  "value": "Ми змушенi повiдомити вас про те, що\nреэстрацiя не передбачена для вашоё\nвiковоё групи. Дивiться лiцензiйне \nУгода Eidos Online.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -5745,7 +5745,7 @@
                 {
                   "name": "Notice621",
                   "org_tbyte": 9,
-                  "value": "У вашому мережевому iменi маэ бути вiд 4 до\n15 символiв, не повинно бути образ,\nа також пробiлiв та спецiальних символiв.\nПеревiрте правильнiсть введеноъ iнформацiъ.",
+                  "value": "У вашому мережевому iменi маэ бути вiд 4 до\n15 символiв, не повинно бути образ,\nа також пробiлiв та спецiальних символiв.\nПеревiрте правильнiсть введеноё iнформацiё.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -5766,7 +5766,7 @@
                 {
                   "name": "Notice630",
                   "org_tbyte": 9,
-                  "value": "Мережевий акаунт Eidos Online створено успiшно.\nУсi данi зберiгаються на серверах\nEidos Online. Ви можете будь-якоъ митi\nвiдновити свiй аккаунт, ввiвши своэ\nмережеве iм'я.",
+                  "value": "Мережевий акаунт Eidos Online створено успiшно.\nУсi данi зберiгаються на серверах\nEidos Online. Ви можете будь-якоё митi\nвiдновити свiй аккаунт, ввiвши своэ\nмережеве iм'я.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -6298,7 +6298,7 @@
                 {
                   "name": "WantsFriendship",
                   "org_tbyte": 9,
-                  "value": "ХОЧЕ СТАТИ ВАШОЪ ДРУГОМ",
+                  "value": "ХОЧЕ СТАТИ ВАШОЁ ДРУГОМ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -7597,7 +7597,7 @@
             {
               "name": "UrbanChaosConfirm",
               "org_tbyte": 9,
-              "value": "Запуск демо-версiъ Urban Chaos: Riot Response призведе до закриття гри. Усi вiдомостi про проходження будуть втраченi.\nПродовжити?",
+              "value": "Запуск демо-версiё Urban Chaos: Riot Response призведе до закриття гри. Усi вiдомостi про проходження будуть втраченi.\nПродовжити?",
               "numChildren": 0,
               "type": "data"
             },
@@ -8104,7 +8104,7 @@
                 {
                   "name": "missionCustomWeapons",
                   "org_tbyte": 9,
-                  "value": "евакуацiя МОД. ЗБРОЪ",
+                  "value": "евакуацiя МОД. ЗБРОЁ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -8146,7 +8146,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Цi набоъ призначенi для пiстолетiв середнього калiбру, таких як Snub Nosed",
+                  "value": "Цi набоё призначенi для пiстолетiв середнього калiбру, таких як Snub Nosed",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -8188,7 +8188,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Цi патрони призначенi для модифiкованоъ штурмовоъ гвинтiвки",
+                  "value": "Цi патрони призначенi для модифiкованоё штурмовоё гвинтiвки",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -8209,7 +8209,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Цi набоъ пробивають кевларову броню будь-якоъ товщини.",
+                  "value": "Цi набоё пробивають кевларову броню будь-якоё товщини.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -8314,7 +8314,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Цi набоъ призначенi для пiстолетiв середнього калiбру, таких як Snub Nosed",
+                  "value": "Цi набоё призначенi для пiстолетiв середнього калiбру, таких як Snub Nosed",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -8335,7 +8335,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Спецiальнi набоъ для автомата з глушником. Куля рухаэться зi швидкiстю меншою, нiж швидкiсть звуку, приховуючи факт пострiлу",
+                  "value": "Спецiальнi набоё для автомата з глушником. Куля рухаэться зi швидкiстю меншою, нiж швидкiсть звуку, приховуючи факт пострiлу",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -8356,7 +8356,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Цi набоъ призначенi для зброъ середнього калiбру, наприклад, Snub Nosed",
+                  "value": "Цi набоё призначенi для зброё середнього калiбру, наприклад, Snub Nosed",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -8398,7 +8398,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Спецiальнi набоъ для зброъ з глушником. Куля рухаэться зi швидкiстю меншою, нiж швидкiсть звуку, приховуючи факт пострiлу.",
+                  "value": "Спецiальнi набоё для зброё з глушником. Куля рухаэться зi швидкiстю меншою, нiж швидкiсть звуку, приховуючи факт пострiлу.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -8440,7 +8440,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Цi патрони призначенi для модифiкованоъ снайперськоъ гвинтiвки",
+                  "value": "Цi патрони призначенi для модифiкованоё снайперськоё гвинтiвки",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -8461,7 +8461,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Спецiальнi набоъ для зброъ з глушником. Куля рухаэться зi швидкiстю меншою, нiж швидкiсть звуку, приховуючи факт пострiлу",
+                  "value": "Спецiальнi набоё для зброё з глушником. Куля рухаэться зi швидкiстю меншою, нiж швидкiсть звуку, приховуючи факт пострiлу",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -8482,7 +8482,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Спецiальнi набоъ для зброъ з глушником. Куля рухаэться зi швидкiстю меншою, нiж швидкiсть звуку, приховуючи факт пострiлу",
+                  "value": "Спецiальнi набоё для зброё з глушником. Куля рухаэться зi швидкiстю меншою, нiж швидкiсть звуку, приховуючи факт пострiлу",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -8503,7 +8503,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Спецiальнi набоъ для зброъ з глушником. Куля рухаэться зi швидкiстю меншою, нiж швидкiсть звуку, приховуючи факт пострiлу",
+                  "value": "Спецiальнi набоё для зброё з глушником. Куля рухаэться зi швидкiстю меншою, нiж швидкiсть звуку, приховуючи факт пострiлу",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -8762,7 +8762,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Цi патрони призначенi для снайперськоъ гвинтiвки",
+                  "value": "Цi патрони призначенi для снайперськоё гвинтiвки",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -8923,7 +8923,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Столярний молоток iз вуглецевоъ сталi з гумовою рукояткою - iдеальне вирiшення складних проблем.",
+                  "value": "Столярний молоток iз вуглецевоё сталi з гумовою рукояткою - iдеальне вирiшення складних проблем.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -9035,7 +9035,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Свинорiз iз загартованоъ сталi зi спецiальною гумовою рукояткою та кастетом",
+                  "value": "Свинорiз iз загартованоё сталi зi спецiальною гумовою рукояткою та кастетом",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -9063,14 +9063,14 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Високоякiсний кухонний нiж iз нержавiючоъ сталi. Iдеальний для глибоких надрiзiв",
+                  "value": "Високоякiсний кухонний нiж iз нержавiючоё сталi. Iдеальний для глибоких надрiзiв",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Longname",
                   "org_tbyte": 9,
-                  "value": "Кухонний нiж iз нержавiючоъ сталi",
+                  "value": "Кухонний нiж iз нержавiючоё сталi",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -9091,14 +9091,14 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Високоякiсний м'ясницький тесак iз нержавiючоъ сталi. Iдеальний для глибоких надрiзiв",
+                  "value": "Високоякiсний м'ясницький тесак iз нержавiючоё сталi. Iдеальний для глибоких надрiзiв",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Longname",
                   "org_tbyte": 9,
-                  "value": "М'ясницький тесак iз нержавiючоъ сталi",
+                  "value": "М'ясницький тесак iз нержавiючоё сталi",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -9119,7 +9119,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Solingen 420, лезо з нержавiючоъ сталi та рукоятка з рогу оленя",
+                  "value": "Solingen 420, лезо з нержавiючоё сталi та рукоятка з рогу оленя",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -9427,7 +9427,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Гладка тростина, що пiдходить як джентльменам, так i дамам, приховуэ в собi гострий меч, який миттю перетворюэ ъъ власника на озлоблене чудовисько.",
+                  "value": "Гладка тростина, що пiдходить як джентльменам, так i дамам, приховуэ в собi гострий меч, який миттю перетворюэ ёё власника на озлоблене чудовисько.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -9483,7 +9483,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Протиотрута вiд експериментальноъ сироватки клiнiчноъ смертi",
+                  "value": "Протиотрута вiд експериментальноё сироватки клiнiчноё смертi",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -9511,7 +9511,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Мiстить експериментальну сироватку, що багаторазово уповiльнюэ серцебиття та основнi функцiъ органiзму реципiэнта, вводячи його в стан, близький до анабiозу",
+                  "value": "Мiстить експериментальну сироватку, що багаторазово уповiльнюэ серцебиття та основнi функцiё органiзму реципiэнта, вводячи його в стан, близький до анабiозу",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -9539,7 +9539,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Нержавiюча сталь, медичний шприц. Мiстить дозу проносного. Використовуэться для прискореного виведення залишкiв ъжi з кишечника. Пiсля застосування не вiдходьте далеко вiд туалету",
+                  "value": "Нержавiюча сталь, медичний шприц. Мiстить дозу проносного. Використовуэться для прискореного виведення залишкiв ёжi з кишечника. Пiсля застосування не вiдходьте далеко вiд туалету",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -9728,7 +9728,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Стандартний кейс бiзнесменiв. Усерединi знаходиться велика кiлькiсть алмазiв; Шейх Аль-Халiфа маэ намiр обмiняти ъх на цiнний ДНК-матерiал. Усерединi вистачаэ мiсця, щоби покласти ще один предмет.",
+                  "value": "Стандартний кейс бiзнесменiв. Усерединi знаходиться велика кiлькiсть алмазiв; Шейх Аль-Халiфа маэ намiр обмiняти ёх на цiнний ДНК-матерiал. Усерединi вистачаэ мiсця, щоби покласти ще один предмет.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -9840,7 +9840,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Цi ящики вносить у будинок постачальник провiзiъ. Це шанс пронести всередину зброю пiд носом пiд охороною",
+                  "value": "Цi ящики вносить у будинок постачальник провiзiё. Це шанс пронести всередину зброю пiд носом пiд охороною",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -9868,7 +9868,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Агенти ФБР люблять поласувати пончиками. Шкiдлива ъжа, особливо коли вони отруэнi!",
+                  "value": "Агенти ФБР люблять поласувати пончиками. Шкiдлива ёжа, особливо коли вони отруэнi!",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -9952,7 +9952,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Футляр для безпечного зберiгання вашоъ безцiнноъ снайперськоъ гвинтiвки. Крiм того, зачохла снайперська гвинтiвка привертаэ менше уваги з боку перехожих.",
+                  "value": "Футляр для безпечного зберiгання вашоё безцiнноё снайперськоё гвинтiвки. Крiм того, зачохла снайперська гвинтiвка привертаэ менше уваги з боку перехожих.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -9980,7 +9980,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Футляр для перенесення штурмовоъ гвинтiвки FN-2000",
+                  "value": "Футляр для перенесення штурмовоё гвинтiвки FN-2000",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -10008,7 +10008,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Футляр для снайперськоъ гвинтiвки W2000",
+                  "value": "Футляр для снайперськоё гвинтiвки W2000",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -10694,7 +10694,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Прихована мiна; вибухаэ вiд детонатора з радiусом дiъ 25 метрiв.",
+                  "value": "Прихована мiна; вибухаэ вiд детонатора з радiусом дiё 25 метрiв.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -10750,7 +10750,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Цей експериментальний засiб мiстить небезпечну дозу знеболювального i зараз проходить випробування для подальшого використання в хiрургiъ на скакових конях. Воно збiльшуэ ваш больовий порiг.",
+                  "value": "Цей експериментальний засiб мiстить небезпечну дозу знеболювального i зараз проходить випробування для подальшого використання в хiрургiё на скакових конях. Воно збiльшуэ ваш больовий порiг.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -10806,7 +10806,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Саме цим напоэм багато трудяг волiють втамовувати спрагу. \nДивно, що часто вiн i вiдволiкаэ ъх вiд роботи.",
+                  "value": "Саме цим напоэм багато трудяг волiють втамовувати спрагу. \nДивно, що часто вiн i вiдволiкаэ ёх вiд роботи.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -10834,7 +10834,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Спробувавши цей чудовий напiй, що прийшов до нас iз зелених пагорбiв Францiъ, навiть ангели вдаряться в пiсню. Найкраще подавати охолодженим на великосвiтськiй тусовцi.",
+                  "value": "Спробувавши цей чудовий напiй, що прийшов до нас iз зелених пагорбiв Францiё, навiть ангели вдаряться в пiсню. Найкраще подавати охолодженим на великосвiтськiй тусовцi.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -11135,7 +11135,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Сосиску легко отруъти, i ъх люблять собаки.",
+                  "value": "Сосиску легко отруёти, i ёх люблять собаки.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -11660,7 +11660,7 @@
                 {
                   "name": "Type",
                   "org_tbyte": 9,
-                  "value": "РЕВОЛЬВЕР ПРОСТОЪ ДIЪ",
+                  "value": "РЕВОЛЬВЕР ПРОСТОЁ ДIЁ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -11716,7 +11716,7 @@
                 {
                   "name": "Type",
                   "org_tbyte": 9,
-                  "value": "РЕВОЛЬВЕР ПОДВIЙНОЪ ДIЪ",
+                  "value": "РЕВОЛЬВЕР ПОДВIЙНОЁ ДIЁ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -11765,7 +11765,7 @@
                 {
                   "name": "Type",
                   "org_tbyte": 9,
-                  "value": "РЕВОЛЬВЕР ПОДВIЙНОЪ ДIЪ",
+                  "value": "РЕВОЛЬВЕР ПОДВIЙНОЁ ДIЁ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -11863,14 +11863,14 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Горюча рiдина. Якщо пролити ъъ на грати для барбекю, може статися непоправне.",
+                  "value": "Горюча рiдина. Якщо пролити ёё на грати для барбекю, може статися непоправне.",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Longname",
                   "org_tbyte": 9,
-                  "value": "Пляшка горючоъ сумiшi для запальничок.",
+                  "value": "Пляшка горючоё сумiшi для запальничок.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -11982,7 +11982,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Присипляючими дротиками стрiляють у тварин iз пневматичноъ зброъ",
+                  "value": "Присипляючими дротиками стрiляють у тварин iз пневматичноё зброё",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -12479,21 +12479,21 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Цей ключ-карта вiдкриваэ дверi до електрощитовоъ кiмнати.",
+                  "value": "Цей ключ-карта вiдкриваэ дверi до електрощитовоё кiмнати.",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Longname",
                   "org_tbyte": 9,
-                  "value": "Ключ-карта вiд електрощитовоъ кiмнати",
+                  "value": "Ключ-карта вiд електрощитовоё кiмнати",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Shortname",
                   "org_tbyte": 9,
-                  "value": "КЛЮЧ-КАРТА ВIД ЕЛЕКТРОЩИТОВОЪ КIМНАТИ",
+                  "value": "КЛЮЧ-КАРТА ВIД ЕЛЕКТРОЩИТОВОЁ КIМНАТИ",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -12899,21 +12899,21 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Ключ-карта вiд головноъ будiвлi Бiлого дому",
+                  "value": "Ключ-карта вiд головноё будiвлi Бiлого дому",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Longname",
                   "org_tbyte": 9,
-                  "value": "Ключ-карта вiд головноъ будiвлi",
+                  "value": "Ключ-карта вiд головноё будiвлi",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Shortname",
                   "org_tbyte": 9,
-                  "value": "КЛЮЧ-КАРТА ВIД ГОЛОВНОЪ БУДIВЛI",
+                  "value": "КЛЮЧ-КАРТА ВIД ГОЛОВНОЁ БУДIВЛI",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -13130,14 +13130,14 @@
                 {
                   "name": "Longname",
                   "org_tbyte": 9,
-                  "value": "Ключ вiд бiльярдноъ",
+                  "value": "Ключ вiд бiльярдноё",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Shortname",
                   "org_tbyte": 9,
-                  "value": "КЛЮЧ ВIД БIЛЬЯРДНОЪ",
+                  "value": "КЛЮЧ ВIД БIЛЬЯРДНОЁ",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -13207,7 +13207,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Майже невагомий набiр вiдмичок, що вiдкривають замки будь-якоъ складностi",
+                  "value": "Майже невагомий набiр вiдмичок, що вiдкривають замки будь-якоё складностi",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -13452,7 +13452,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Наш клiэнт бажаэ, щоб ви дiстали цi фотографiъ",
+                  "value": "Наш клiэнт бажаэ, щоб ви дiстали цi фотографiё",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -13620,7 +13620,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Малюнок хлопчика. Клiэнт бажаэ, щоб ви показали ъъ жертвi. Фото стане \"останнiм, що вiн бачить у життi!\"",
+                  "value": "Малюнок хлопчика. Клiэнт бажаэ, щоб ви показали ёё жертвi. Фото стане \"останнiм, що вiн бачить у життi!\"",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -13648,7 +13648,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Чоловiк з цiэъ фотографiъ дивним чином схожий на одного знайомого вам лисого кiлера",
+                  "value": "Чоловiк з цiэё фотографiё дивним чином схожий на одного знайомого вам лисого кiлера",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -13676,7 +13676,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Людина з цiэъ фотографiъ схожа на одного з тутешнiх пацiэнтiв",
+                  "value": "Людина з цiэё фотографiё схожа на одного з тутешнiх пацiэнтiв",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -13704,7 +13704,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Людина з цiэъ фотографiъ схожа на одного з тутешнiх пацiэнтiв",
+                  "value": "Людина з цiэё фотографiё схожа на одного з тутешнiх пацiэнтiв",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -13732,7 +13732,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Людина з цiэъ фотографiъ схожа на одного з тутешнiх пацiэнтiв",
+                  "value": "Людина з цiэё фотографiё схожа на одного з тутешнiх пацiэнтiв",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -13921,7 +13921,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Професiйна цифрова камера. Iдеальний iнструмент для документальноъ зйомки або фотополювання на напiвоголених красунь",
+                  "value": "Професiйна цифрова камера. Iдеальний iнструмент для документальноё зйомки або фотополювання на напiвоголених красунь",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -14054,7 +14054,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Захищаэ вiд куль невеликого калiбру i рiжучоъ зброъ, що рубаэ. Зручно носити пiд сорочкою або пiджаком",
+                  "value": "Захищаэ вiд куль невеликого калiбру i рiжучоё зброё, що рубаэ. Зручно носити пiд сорочкою або пiджаком",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -14810,7 +14810,7 @@
                 {
                   "name": "Description",
                   "org_tbyte": 9,
-                  "value": "Професiйна цифрова камера. Iдеальний iнструмент для документальноъ зйомки або фотополювання на напiвоголених красунь",
+                  "value": "Професiйна цифрова камера. Iдеальний iнструмент для документальноё зйомки або фотополювання на напiвоголених красунь",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -15676,7 +15676,7 @@
                                 {
                                   "name": "All_F_C_V_S_HMWW_02C",
                                   "org_tbyte": 41,
-                                  "value": "Допоможiть! Полiцiя - злодiъ!",
+                                  "value": "Допоможiть! Полiцiя - злодiё!",
                                   "numChildren": 0,
                                   "type": "data"
                                 }
@@ -16782,7 +16782,7 @@
                                 {
                                   "name": "All_G_C_V_I_FW_04C",
                                   "org_tbyte": 41,
-                                  "value": "Це треба здати до полiцiъ.",
+                                  "value": "Це треба здати до полiцiё.",
                                   "numChildren": 0,
                                   "type": "data"
                                 }
@@ -17160,7 +17160,7 @@
                                 {
                                   "name": "All_G_C_V_Tres_2W_02C",
                                   "org_tbyte": 41,
-                                  "value": "У твоъх iнтересах звалити звiдси по-доброму.",
+                                  "value": "У твоёх iнтересах звалити звiдси по-доброму.",
                                   "numChildren": 0,
                                   "type": "data"
                                 },
@@ -17594,7 +17594,7 @@
                                 {
                                   "name": "All_G_F_V_S_HMWW_02C",
                                   "org_tbyte": 41,
-                                  "value": "Допоможiть! Полiцiя - злодiъ!",
+                                  "value": "Допоможiть! Полiцiя - злодiё!",
                                   "numChildren": 0,
                                   "type": "data"
                                 }
@@ -19759,7 +19759,7 @@
                 {
                   "name": "All_NR_04C",
                   "org_tbyte": 41,
-                  "value": "Ти недавно щось накоъв, так? Про це було у новинах.",
+                  "value": "Ти недавно щось накоёв, так? Про це було у новинах.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -19804,14 +19804,14 @@
                     {
                       "name": "All_NW_LN_01Diana",
                       "org_tbyte": 41,
-                      "value": "Вам не слiд робити проти нього жодних дiй. Що стосуэться вашоъ мiсiъ...",
+                      "value": "Вам не слiд робити проти нього жодних дiй. Що стосуэться вашоё мiсiё...",
                       "numChildren": 0,
                       "type": "data"
                     },
                     {
                       "name": "All_NW_LN_02Diana",
                       "org_tbyte": 41,
-                      "value": "Преса вже починаэ зiставляти вашi попереднi операцiъ, Сорок сьомий, тож постарайтеся не привертати уваги.",
+                      "value": "Преса вже починаэ зiставляти вашi попереднi операцiё, Сорок сьомий, тож постарайтеся не привертати уваги.",
                       "numChildren": 0,
                       "type": "data"
                     }
@@ -19825,14 +19825,14 @@
                     {
                       "name": "All_NW_MN_01Diana",
                       "org_tbyte": 41,
-                      "value": "Вашi попереднi дiъ привернули увагу журналiстiв, Сорок сьомий. Будьте обережнi.",
+                      "value": "Вашi попереднi дiё привернули увагу журналiстiв, Сорок сьомий. Будьте обережнi.",
                       "numChildren": 0,
                       "type": "data"
                     },
                     {
                       "name": "All_NW_MN_02Diana",
                       "org_tbyte": 41,
-                      "value": "Намагайтеся дiяти непомiтно, Сорок сьомий. Вашi дiъ привернули увагу, влада близька до того, щоб скласти ваш фоторобот.",
+                      "value": "Намагайтеся дiяти непомiтно, Сорок сьомий. Вашi дiё привернули увагу, влада близька до того, щоб скласти ваш фоторобот.",
                       "numChildren": 0,
                       "type": "data"
                     }
@@ -20513,7 +20513,7 @@
                                 {
                                   "name": "All_ST_C_V_Tres_2W_02C",
                                   "org_tbyte": 41,
-                                  "value": "У твоъх iнтересах звалити звiдси по-доброму.",
+                                  "value": "У твоёх iнтересах звалити звiдси по-доброму.",
                                   "numChildren": 0,
                                   "type": "data"
                                 },
@@ -20870,7 +20870,7 @@
                                 {
                                   "name": "All_ST_F_V_S_HMWW_02C",
                                   "org_tbyte": 41,
-                                  "value": "Допоможiть! Полiцiя - злодiъ!",
+                                  "value": "Допоможiть! Полiцiя - злодiё!",
                                   "numChildren": 0,
                                   "type": "data"
                                 }
@@ -22564,7 +22564,7 @@
                                 {
                                   "name": "All_S_C_V_S_HMWW_02C",
                                   "org_tbyte": 41,
-                                  "value": "Допоможiть! Полiцiя - злодiъ!",
+                                  "value": "Допоможiть! Полiцiя - злодiё!",
                                   "numChildren": 0,
                                   "type": "data"
                                 }
@@ -26874,7 +26874,7 @@
                     {
                       "name": "Info1",
                       "org_tbyte": 9,
-                      "value": "{bullet_square} ДАЛЕКИЙ РАДIУС ДIЪ",
+                      "value": "{bullet_square} ДАЛЕКИЙ РАДIУС ДIЁ",
                       "numChildren": 0,
                       "type": "data"
                     },
@@ -27049,7 +27049,7 @@
                     {
                       "name": "Info2",
                       "org_tbyte": 9,
-                      "value": "{bullet_square} ДЛЯ МОД. СНАЙПЕРСЬКОЪ Гвинтiвки",
+                      "value": "{bullet_square} ДЛЯ МОД. СНАЙПЕРСЬКОЁ Гвинтiвки",
                       "numChildren": 0,
                       "type": "data"
                     },
@@ -30451,7 +30451,7 @@
                     {
                       "name": "Info1",
                       "org_tbyte": 9,
-                      "value": "{bullet_square} ДАЛЕКИЙ РАДIУС ДIЪ",
+                      "value": "{bullet_square} ДАЛЕКИЙ РАДIУС ДIЁ",
                       "numChildren": 0,
                       "type": "data"
                     },
@@ -30626,7 +30626,7 @@
                     {
                       "name": "Info2",
                       "org_tbyte": 9,
-                      "value": "{bullet_square} ДЛЯ МОД. СНАЙПЕРСЬКОЪ Гвинтiвки",
+                      "value": "{bullet_square} ДЛЯ МОД. СНАЙПЕРСЬКОЁ Гвинтiвки",
                       "numChildren": 0,
                       "type": "data"
                     },
@@ -34028,7 +34028,7 @@
                     {
                       "name": "Info1",
                       "org_tbyte": 9,
-                      "value": "{bullet_square} ДАЛЕКИЙ РАДIУС ДIЪ",
+                      "value": "{bullet_square} ДАЛЕКИЙ РАДIУС ДIЁ",
                       "numChildren": 0,
                       "type": "data"
                     },
@@ -34203,7 +34203,7 @@
                     {
                       "name": "Info2",
                       "org_tbyte": 9,
-                      "value": "{bullet_square} ДЛЯ МОД. СНАЙПЕРСЬКОЪ Гвинтiвки",
+                      "value": "{bullet_square} ДЛЯ МОД. СНАЙПЕРСЬКОЁ Гвинтiвки",
                       "numChildren": 0,
                       "type": "data"
                     },
@@ -34578,7 +34578,7 @@
                 {
                   "name": "M10_AMS_03Sheik",
                   "org_tbyte": 41,
-                  "value": "У невiрного козлячого зроду зовсiм немаэ манер. Я скажу ъм, що ми радi зустрiтись з вами.",
+                  "value": "У невiрного козлячого зроду зовсiм немаэ манер. Я скажу ём, що ми радi зустрiтись з вами.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -34606,7 +34606,7 @@
                 {
                   "name": "M10_AMS_07Sheik",
                   "org_tbyte": 41,
-                  "value": "Швидко вiднеси це Латiфу. Якщо виникне бодай один сумнiв у справжностi, здерiть три шкури з цiэъ худоби.",
+                  "value": "Швидко вiднеси це Латiфу. Якщо виникне бодай один сумнiв у справжностi, здерiть три шкури з цiэё худоби.",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -34704,7 +34704,7 @@
                 {
                   "name": "M10_GADS_02Sheik",
                   "org_tbyte": 41,
-                  "value": "Порода розпусноъ свинi!",
+                  "value": "Порода розпусноё свинi!",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -34893,7 +34893,7 @@
                 {
                   "name": "M10_SAMIP_02Afrikaner",
                   "org_tbyte": 41,
-                  "value": "Безперечно. Чи часто в Аравiъ граэте?",
+                  "value": "Безперечно. Чи часто в Аравiё граэте?",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -34977,7 +34977,7 @@
                 {
                   "name": "M10_SCAA_02CGMB",
                   "org_tbyte": 41,
-                  "value": "Не кажи, по п'ять разiв на день. Кажуть, наступного тижня ъъ полагодять.",
+                  "value": "Не кажи, по п'ять разiв на день. Кажуть, наступного тижня ёё полагодять.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -35198,7 +35198,7 @@
             {
               "name": "ScientistArrives",
               "org_tbyte": 9,
-              "value": "Вчений приъхав машиною.",
+              "value": "Вчений приёхав машиною.",
               "numChildren": 0,
               "type": "data"
             },
@@ -35401,14 +35401,14 @@
             {
               "name": "M10_MB_02D",
               "org_tbyte": 41,
-              "value": "Борець за чистоту бiлоъ раси з ПАР на iм'я Хендрiк Шмутц намагаэться продати ДНК та науковi звiти багатому саудiвському шейху Мохаммеду бiн Фейзаль аль-Халiфа.",
+              "value": "Борець за чистоту бiлоё раси з ПАР на iм'я Хендрiк Шмутц намагаэться продати ДНК та науковi звiти багатому саудiвському шейху Мохаммеду бiн Фейзаль аль-Халiфа.",
               "numChildren": 0,
               "type": "data"
             },
             {
               "name": "M10_MB_03D",
               "org_tbyte": 41,
-              "value": "Шейх працюэ на якийсь бiк, проте ми не знаэмо, на кого саме. Наш клiэнт хоче змусити ъх грати у вiдкриту, зiрвавши майбутню угоду.",
+              "value": "Шейх працюэ на якийсь бiк, проте ми не знаэмо, на кого саме. Наш клiэнт хоче змусити ёх грати у вiдкриту, зiрвавши майбутню угоду.",
               "numChildren": 0,
               "type": "data"
             },
@@ -35422,7 +35422,7 @@
             {
               "name": "M10_MB_05D",
               "org_tbyte": 41,
-              "value": "Останнiм часом ми втратили чимало агентiв, 47-ъ. Зараз будь-яка мiсiя може виявитися з каверзою.",
+              "value": "Останнiм часом ми втратили чимало агентiв, 47-ё. Зараз будь-яка мiсiя може виявитися з каверзою.",
               "numChildren": 0,
               "type": "data"
             }
@@ -35467,7 +35467,7 @@
                 {
                   "name": "ObjectiveDetail",
                   "org_tbyte": 9,
-                  "value": "Саудiвський шейх та голова корпорацiъ \"Аребiан Фармасьютiкал Експортс\", пiдозрюваноъ у виробництвi та експортi заборонених бiологiчних агентiв. Шейх прибуде до готелю \"Шамаль\" сьогоднi ввечерi. Вiн збираэться купити зразки ДНК у приватного продавця.",
+                  "value": "Саудiвський шейх та голова корпорацiё \"Аребiан Фармасьютiкал Експортс\", пiдозрюваноё у виробництвi та експортi заборонених бiологiчних агентiв. Шейх прибуде до готелю \"Шамаль\" сьогоднi ввечерi. Вiн збираэться купити зразки ДНК у приватного продавця.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -35593,7 +35593,7 @@
                 {
                   "name": "ObjectiveDetail",
                   "org_tbyte": 9,
-                  "value": "Прихильник переваги бiлоъ раси з Пiвденноъ Африки. Прибув до готелю \"Шамаль\" учора. Маэ намiр продати зразки ДНК та лабораторнi звiти шейху Аль-Халiфа. Зберiгаэ зразки та папери у валiзi, що знаходиться в його номерi. Зустрiч Шмутца iз шейхом вiдбудеться сьогоднi ввечерi.",
+                  "value": "Прихильник переваги бiлоё раси з Пiвденноё Африки. Прибув до готелю \"Шамаль\" учора. Маэ намiр продати зразки ДНК та лабораторнi звiти шейху Аль-Халiфа. Зберiгаэ зразки та папери у валiзi, що знаходиться в його номерi. Зустрiч Шмутца iз шейхом вiдбудеться сьогоднi ввечерi.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -35719,7 +35719,7 @@
                 {
                   "name": "Hint4",
                   "org_tbyte": 9,
-                  "value": "Казино неухильно дотримуэться правил протипожежноъ безпеки. Кнопки пожежноъ тривоги знаходяться на верхнiх поверхах i легко доступнi.",
+                  "value": "Казино неухильно дотримуэться правил протипожежноё безпеки. Кнопки пожежноё тривоги знаходяться на верхнiх поверхах i легко доступнi.",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -35964,7 +35964,7 @@
                 {
                   "name": "M10_GVHL_01CRM",
                   "org_tbyte": 41,
-                  "value": "Диявол. Як я тепер додому поъду, програв до нитки. Сволоти...",
+                  "value": "Диявол. Як я тепер додому поёду, програв до нитки. Сволоти...",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -36535,7 +36535,7 @@
             {
               "name": "M10_SS_01Diana",
               "org_tbyte": 9,
-              "value": "Радi повернутися до цивiлiзацiъ, Сорок Сьомий?",
+              "value": "Радi повернутися до цивiлiзацiё, Сорок Сьомий?",
               "numChildren": 0,
               "type": "data"
             },
@@ -36549,14 +36549,14 @@
             {
               "name": "M10_SS_03Diana",
               "org_tbyte": 9,
-              "value": "Мiсiъ на болотах забезпечили нам перепочинок, але ситуацiя погiршуэться з кожною секундою. Ми продовжуэмо втрачати агентiв. Ви отримали завдання?",
+              "value": "Мiсiё на болотах забезпечили нам перепочинок, але ситуацiя погiршуэться з кожною секундою. Ми продовжуэмо втрачати агентiв. Ви отримали завдання?",
               "numChildren": 0,
               "type": "data"
             },
             {
               "name": "M10_SS_04HM",
               "org_tbyte": 9,
-              "value": "Ще вчора. Дивлюсь на фотографiъ. Мохаммед бiн Фейзаль Аль-Халiфа, його вчений Тарiк Абдул Латiф, та Хендрiк Шмутц iз Пiвденноъ Африки. Цiкаве трiо.",
+              "value": "Ще вчора. Дивлюсь на фотографiё. Мохаммед бiн Фейзаль Аль-Халiфа, його вчений Тарiк Абдул Латiф, та Хендрiк Шмутц iз Пiвденноё Африки. Цiкаве трiо.",
               "numChildren": 0,
               "type": "data"
             },
@@ -36591,7 +36591,7 @@
             {
               "name": "M10_TVAR_01TVAnchor",
               "org_tbyte": 41,
-              "value": "Новина останньоъ години. Виконувач обов'язкiв директора ФБР Лоуренс Квiглi пiдняв рiвень терористичноъ загрози з \"жовтою\" до \"помаранчевоъ\" у свiтлi, цитую, \"достовiрних вiдомостей\", кiнець цитати, отриманих розвiдслужбами США та iнших краън.",
+              "value": "Новина останньоё години. Виконувач обов'язкiв директора ФБР Лоуренс Квiглi пiдняв рiвень терористичноё загрози з \"жовтою\" до \"помаранчевоё\" у свiтлi, цитую, \"достовiрних вiдомостей\", кiнець цитати, отриманих розвiдслужбами США та iнших краён.",
               "numChildren": 0,
               "type": "data"
             },
