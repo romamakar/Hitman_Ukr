@@ -35,7 +35,7 @@ namespace ZipBuilder
                 return;
             }
 
-            foreach (string filePath in Directory.GetFiles(sourceFolder, "*.loc"))
+            foreach (string filePath in Directory.GetFiles(sourceFolder, "*.LOC"))
             {
                 string fileName = Path.GetFileNameWithoutExtension(filePath);
                 string archivePath, entryPath;
@@ -114,7 +114,7 @@ namespace ZipBuilder
                 {
                     continue;
                 }
-                string outputLocFile = Path.ChangeExtension(fileName, ".loc");
+                string outputLocFile = Path.ChangeExtension(fileName, ".LOC");
                 Process process = new Process()
                 {
                     StartInfo = new ProcessStartInfo
@@ -142,7 +142,7 @@ namespace ZipBuilder
             }
 
             //M00_MAIN.JSON
-            string locFileM00 = locDirectory + "\\" + $"M00_main.loc";
+            string locFileM00 = locDirectory + "\\" + $"M00_main.LOC";
             string jsonFileM00 = jsonDirectory + "\\" + $"M00_main.json";
             Process process2 = new Process()
             {
@@ -176,7 +176,7 @@ namespace ZipBuilder
         {
             string postmission = localPath + @"\json\postmission\postmission.json";
 
-            string locFile = localPath + @"\loc" + "\\" + $"M01_postmission.loc";
+            string locFile = localPath + @"\loc" + "\\" + $"M01_postmission.LOC";
             Process process = new Process()
             {
                 StartInfo = new ProcessStartInfo
@@ -211,7 +211,7 @@ namespace ZipBuilder
                     continue;
                 }
 
-                string newLocFile = localPath + @"\loc" + "\\" + $"M{i.ToString("D2")}_postmission.loc";
+                string newLocFile = localPath + @"\loc" + "\\" + $"M{i.ToString("D2")}_postmission.LOC";
 
                 Console.WriteLine($"Copying: {locFile} -> {newLocFile}");
 
