@@ -27196,7 +27196,7 @@
                     {
                       "name": "Name",
                       "org_tbyte": 9,
-                      "value": "КЕВЛАРОВИЙ БРОНЕЖИЛЬ",
+                      "value": "КЕВЛАРОВИЙ БРОНЕЖИЛЕТ",
                       "numChildren": 0,
                       "type": "data"
                     }
@@ -27252,7 +27252,7 @@
                     {
                       "name": "Info1",
                       "org_tbyte": 9,
-                      "value": "{bullet_square} НЕБIЛЬКИЙ БОНУС ДО ЗДОРОВ'Я",
+                      "value": "{bullet_square} НЕВЕЛИКИЙ БОНУС ДО ЗДОРОВ'Я",
                       "numChildren": 0,
                       "type": "data"
                     },
@@ -30773,7 +30773,7 @@
                     {
                       "name": "Name",
                       "org_tbyte": 9,
-                      "value": "КЕВЛАРОВИЙ БРОНЕЖИЛЬ",
+                      "value": "КЕВЛАРОВИЙ БРОНЕЖИЛЕТ",
                       "numChildren": 0,
                       "type": "data"
                     }
@@ -30829,7 +30829,7 @@
                     {
                       "name": "Info1",
                       "org_tbyte": 9,
-                      "value": "{bullet_square} НЕБIЛЬКИЙ БОНУС ДО ЗДОРОВ'Я",
+                      "value": "{bullet_square} НЕВЕЛИКИЙ БОНУС ДО ЗДОРОВ'Я",
                       "numChildren": 0,
                       "type": "data"
                     },
@@ -34350,7 +34350,7 @@
                     {
                       "name": "Name",
                       "org_tbyte": 9,
-                      "value": "КЕВЛАРОВИЙ БРОНЕЖИЛЬ",
+                      "value": "КЕВЛАРОВИЙ БРОНЕЖИЛЕТ",
                       "numChildren": 0,
                       "type": "data"
                     }
@@ -34406,7 +34406,7 @@
                     {
                       "name": "Info1",
                       "org_tbyte": 9,
-                      "value": "{bullet_square} НЕБIЛЬКИЙ БОНУС ДО ЗДОРОВ'Я",
+                      "value": "{bullet_square} НЕВЕЛИКИЙ БОНУС ДО ЗДОРОВ'Я",
                       "numChildren": 0,
                       "type": "data"
                     },
@@ -34505,7 +34505,7 @@
             {
               "name": "ReviveCIAAgent",
               "org_tbyte": 9,
-              "value": "Пожвавити агента",
+              "value": "Оживити агента",
               "numChildren": 0,
               "type": "data"
             },

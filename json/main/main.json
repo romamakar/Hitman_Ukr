@@ -26914,7 +26914,7 @@
                 {
                   "name": "Info1",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ДОД. ПРОТИПАЛЮЧНА МIНА",
+                  "value": "{bullet_square} ДОД. МIНА",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -27040,7 +27040,7 @@
                 {
                   "name": "Info1",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} НЕ РОЗIЗНАЭТЬСЯ",
+                  "value": "{bullet_square} НЕ РОЗПIЗНАЭТЬСЯ",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -27089,14 +27089,14 @@
                 {
                   "name": "Info2",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ЧIТКА ЗОБРАЖЕННЯ",
+                  "value": "{bullet_square} ЧIТКЕ ЗОБРАЖЕННЯ",
                   "numChildren": 0,
                   "type": "data"
                 },
                 {
                   "name": "Info3",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} ВИЗНАЧНИК ВIДСТАНИ",
+                  "value": "{bullet_square} ВИЗНАЧНИК ВIДСТАНI",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -27194,7 +27194,7 @@
                 {
                   "name": "Name",
                   "org_tbyte": 9,
-                  "value": "КЕВЛАРОВИЙ БРОНЕЖИЛЬ",
+                  "value": "КЕВЛАРОВИЙ БРОНЕЖИЛЕТ",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -27250,7 +27250,7 @@
                 {
                   "name": "Info1",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} НЕБIЛЬКИЙ БОНУС ДО ЗДОРОВ'Я",
+                  "value": "{bullet_square} НЕВЕЛИКИЙ БОНУС ДО ЗДОРОВ'Я",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -30771,7 +30771,7 @@
                 {
                   "name": "Name",
                   "org_tbyte": 9,
-                  "value": "КЕВЛАРОВИЙ БРОНЕЖИЛЬ",
+                  "value": "КЕВЛАРОВИЙ БРОНЕЖИЛЕТ",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -30827,7 +30827,7 @@
                 {
                   "name": "Info1",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} НЕБIЛЬКИЙ БОНУС ДО ЗДОРОВ'Я",
+                  "value": "{bullet_square} НЕВЕЛИКИЙ БОНУС ДО ЗДОРОВ'Я",
                   "numChildren": 0,
                   "type": "data"
                 },
@@ -34348,7 +34348,7 @@
                 {
                   "name": "Name",
                   "org_tbyte": 9,
-                  "value": "КЕВЛАРОВИЙ БРОНЕЖИЛЬ",
+                  "value": "КЕВЛАРОВИЙ БРОНЕЖИЛЕТ",
                   "numChildren": 0,
                   "type": "data"
                 }
@@ -34404,7 +34404,7 @@
                 {
                   "name": "Info1",
                   "org_tbyte": 9,
-                  "value": "{bullet_square} НЕБIЛЬКИЙ БОНУС ДО ЗДОРОВ'Я",
+                  "value": "{bullet_square} НЕВЕЛИКИЙ БОНУС ДО ЗДОРОВ'Я",
                   "numChildren": 0,
                   "type": "data"
                 },
