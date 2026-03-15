@@ -3,7 +3,7 @@
 ; Non-commercial use only
 
 #define MyAppName "Українізатор для Hitman: Blood Money"
-#define MyAppVersion "2.2"
+#define MyAppVersion "2.3"
 #define MyAppPublisher "romamakar"
 
 [Setup]
@@ -19,7 +19,7 @@ DisableDirPage=no
 ;DefaultGroupName={#MyAppName}
 ; Uncomment the following line to run in non administrative install mode (install for current user only).
 ;PrivilegesRequired=lowest
-OutputBaseFilename=HitmanBM_Ukr2_2
+OutputBaseFilename=HitmanBM_Ukr2_3
 OutputDir=Output
 SetupIconFile=D:\a\Hitman_Ukr\Hitman_Ukr\installer\installer.ico
 SolidCompression=yes

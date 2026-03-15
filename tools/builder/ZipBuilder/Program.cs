@@ -213,6 +213,8 @@ namespace ZipBuilder
                 string additionalFile = archiveFolder + "\\HitmanBloodMoney.exe";
                 archive.CreateEntryFromFile(additionalFile, "HitmanBloodMoney.exe");
 
+                string configFile = archiveFolder + "\\configure.exe";
+                archive.CreateEntryFromFile(configFile, "configure.exe");
             }
 
             Console.WriteLine("Архів успішно створено!");
