@@ -8634,7 +8634,7 @@
             {
               "name": "Description",
               "org_tbyte": 9,
-              "value": "Цвяхи для цвяхомета",
+              "value": "Цвяхи для цвяхозабивача",
               "numChildren": 0,
               "type": "data"
             },
@@ -11532,21 +11532,21 @@
             {
               "name": "Longname",
               "org_tbyte": 9,
-              "value": "Цвяхомет",
+              "value": "Цвяхозабивач",
               "numChildren": 0,
               "type": "data"
             },
             {
               "name": "Shortname",
               "org_tbyte": 9,
-              "value": "ЦВЯХОМЕТ",
+              "value": "ЦВЯХОЗАБИВАЧ",
               "numChildren": 0,
               "type": "data"
             },
             {
               "name": "Type",
               "org_tbyte": 9,
-              "value": "БЕЗПРОВIДНИЙ ЦВЯХОМЕТ",
+              "value": "АКУМУЛЯТОРНИЙ ЦВЯХОЗАБИВАЧ",
               "numChildren": 0,
               "type": "data"
             },
